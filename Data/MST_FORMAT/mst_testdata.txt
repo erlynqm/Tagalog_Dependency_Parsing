@@ -1,0 +1,2200 @@
+itinakwil	siya	ng	lahat	maliban	lamang	sa	kanyang	maybahay	.
+PFOF	PRSG	CCB	PRI	CCT	RI	CCT	POSG	CP	PMP
+0	1	4	1	1	5	9	9	5	9
+
+napapasigaw	ang	aking	lolo	sa	pagpapahirap	na	ipinataw	sa	kanya	.
+JCJD	CD	POSG	CP	CCT	CP	CCP	PFOF	CCT	POSG	PMP
+0	4	4	1	6	1	6	7	10	8	10
+
+sa	kalaunan	ay	kinalagan	din	siya	sa	pagkakatali	sa	kabayo	hanggang	mawalan	ng	malay	.
+CCT	CP	LM	PFOF	RI	PRSG	CCT	CP	CCT	CP	RW	INOF	CCB	CP	PMP
+2	3	0	3	4	4	8	4	10	8	4	11	14	12	14
+
+sino	nga	ba	ang	maniniwala	sa	isang	manununog	?
+QISG	RI	RI	CD	COAF	CCT	PRI	CP	PMQ
+0	1	1	5	1	8	8	5	8
+
+alang-alang	sa	asawa	at	para	sa	kanya	,	wala	ng	halaga	pa	ang	karangalan	at	kahihiyan	.
+JCJD	CCT	CP	CCA	RBB	RBB	POSG	PMC	RF	CCB	CP	RI	CD	CP	CCA	CP	PMP
+9	3	1	3	4	5	6	9	0	11	9	11	14	9	14	15	16
+
+ipinanganak	niya	roon	ang	isang	babae	na	kulang	sa	buwan	hanggang	ito	ay	mamatay	.
+PFOF	PRSG	LO	CD	PRI	CP	CCP	JCJD	CCT	CP	RW	DM	LM	INOF	PMP
+0	1	1	6	6	1	6	7	10	8	1	13	11	13	14
+
+sila	ay	nanirahan	dito	ng	matagal	upang	umiwas	sa	mga	mamamayan	.
+PRPL	LM	PFAF	LO	CCB	JCJD	CCB	INAF	CCT	CDPL	CP	PMP
+2	0	2	3	6	3	3	7	11	11	8	11
+
+nang	hindi	na	matiis	ng	lolo	ko	ang	kasawiang	ito	,	siya	ay	nagbigti	.
+RW	RF	CCP	INOF	CCB	CP	PRSG	CD	CP	DM	PMC	PRSG	LM	PFAF	PMP
+13	4	2	1	4	5	6	9	4	9	12	13	0	15	13
+
+hindi	rin	niya	natagalan	ang	paghihirap	ng	maysakit	niyang	asawa	at	ang	labis	na	kahirapan	.
+RF	RI	PRSG	PFOF	CD	CP	CCB	CP	PRSG	CP	CCA	CD	JCCS	CCP	CP	PMP
+4	1	4	0	6	4	10	10	10	6	6	15	15	13	11	15
+
+ang	bangkay	niya	ay	nangamoy	at	nakita	ng	kanyang	anak	at	asawang	maysakit	ang	pagkaagnas	at	pagkabulok	nito	.
+CD	CP	PRSG	LM	PFAF	CCA	PFAF	CCB	POSG	CP	CCA	CP	CP	CD	CP	CCA	CP	DM	PMP
+2	4	2	0	4	5	6	10	10	7	10	11	12	15	7	15	16	17	18
+
+nalaman	ito	ng	mga	maykapangyarihan	.
+INOF	DM	CCB	CDPL	CP	PMP
+0	1	5	5	1	5
+
+dahil	dito	,	inusig	ang	aking	lola	.
+RP	RP	PMC	PFOF	CD	POSG	CP	PMP
+4	1	4	0	7	7	4	7
+
+isinakdal	siya	at	napatunayang	nagkasala	dahil	sa	hindi	pagpapaalam	nito	sa	mga	maykapangyarihan	.
+PFOF	PRSG	CCA	RD	RD	RP	RP	RF	CP	DM	CCT	CDPL	CP	PMP
+0	1	1	5	3	5	6	9	6	9	13	13	9	13
+
+sinisi	rin	siya	sa	pagkamatay	ng	lolo	.
+PFOF	RI	PRSG	CCT	CP	CCB	CP	PMP
+0	1	1	5	1	7	5	7
+
+madali	itong	pinaniwalaan	dahil	siya'y	babaing	naging	puta	na	hindi	imposibleng	gumawa	ng	krimen	.
+RD	DM	RD	CCR	PRSG	CP	INOF	CP	CCP	RF	JCJD	INAF	CCB	CP	PMP
+3	3	0	3	6	7	4	7	7	11	12	9	14	12	14
+
+anumang	pagtanggi	at	pag-iyak	ay	nagkakaroon	ng	bintang	na	pagbubulaan	.
+PRI	CP	CCA	CP	LM	IMAF	CCB	CP	CCP	CP	PMP
+2	5	2	3	0	5	8	6	10	8	10
+
+kinaawaan	din	siya	dahil	buntis	.
+COOF	RI	PRSG	CCR	CP	PMP
+0	1	1	1	4	5
+
+hindi	muna	siya	hinagupit	hanggang	makapanganak	.
+RF	RI	PRSG	PFOF	RW	INAF	PMP
+4	1	4	0	4	5	6
+
+nagsilang	siya	ng	isang	malusog	na	sanggol	na	lalaki	.
+PFAF	PRSG	CCB	JN	JCJD	CCP	CP	CCP	CP	PMP
+0	1	7	7	7	5	1	7	8	9
+
+pagkalipas	ng	dalawang	buwan	ay	pinarusahan	na	siya	.
+CP	CCB	JN	CP	LM	PFOF	CCP	PRSG	PMP
+5	1	4	2	0	5	6	6	8
+
+lumisan	sa	bundok	ang	babae	kasama	ang	dalawa	niyang	anak	na	lalaki	.
+INAF	CCT	CP	CD	CP	CP	CD	CDB	PRSG	CP	CCP	CP	PMP
+0	3	1	5	1	1	10	10	10	6	10	11	12
+
+nakarating	sila	sa	kalapit-lalawigan	at	namuhay	na	parang	hayop	.
+JCJD	PRPL	RL	RL	CCA	PFAF	CCP	CCT	CP	PMP
+0	1	4	1	4	5	6	7	8	9
+
+sila	ay	namumuhi	at	kinamumuhian	ng	tao	.
+PRPL	LM	IMAF	CCA	JCJD	CCB	CP	PMP
+2	0	2	3	4	5	6	7
+
+ang	panganay	sa	magkapatid	na	may	alaala	ng	masayang	kabataan	sa	kabila	ng	hirap	ay	naging	tulisan	.
+CD	CP	CCT	CP	CCP	VH	CP	CCB	JCJD	CP	CCT	CCT	CCB	CP	LM	INOF	CP	PMP
+2	15	2	3	2	5	6	7	10	8	10	11	12	13	0	17	15	17
+
+siya	ay	binansagang	balat	,	ang	kilabot	ng	mga	bayan	.
+PRSG	LM	PFOF	NNP	PMC	CD	CP	CCB	CDPL	CP	PMP
+2	0	2	3	6	7	4	7	10	8	10
+
+samantala	,	ang	nakababatang	kapatid	na	may	taglay	na	mabuting	kalooban	ay	kapiling	ng	ina	.
+CCT	PMC	CD	JCJD	CP	CCP	VH	CP	CCP	JCJD	CP	LM	CP	CCB	CP	PMP
+5	3	4	5	12	5	6	10	8	7	10	0	12	15	13	15
+
+namuhay	sila	sa	gubat	.
+PFAF	PRPL	CCT	CP	PMP
+0	1	4	1	4
+
+mga	basahang	itinapon	ng	mga	manlalakbay	ang	isinusuot	nilang	damit	.
+CDPL	CP	PFOF	CCB	CDPL	CP	CD	IMOF	PRPL	CP	PMP
+2	8	2	5	6	2	8	0	10	8	10
+
+hindi	alam	ang	ngalan	ng	babae	.
+RF	INAF	CD	CP	CCB	CP	PMP
+2	0	4	2	4	5	6
+
+ang	moral	ng	mga	indiyo	ay	lagi	nang	pinagdududahan	.
+CD	CP	CCB	CDPL	NNP	LM	RW	RW	IMLF	PMP
+2	6	5	5	2	0	9	7	6	9
+
+pinutul-putol	ng	mga	tao	ang	bangkay	ng	tulisan	.
+PFOF	CCB	CDPL	CP	CD	CP	CCB	CP	PMP
+0	4	4	1	6	1	6	7	8
+
+ibinaon	ang	katawan	nito	at	ang	mga	kamay	at	paa	ay	ibinitin	nang	hiwa-hiwalay	sa	iba't	ibang	bayan	.
+PFOF	CD	CP	DM	CCA	CD	CDPL	CP	CCA	CP	LM	RD	RD	RD	CCT	JCJD	JCJD	CP	PMP
+0	3	1	3	3	8	8	11	8	9	5	11	12	13	18	17	18	12	18
+
+dahil	sa	kanyang	sipag	at	kabaitan	ay	napamahal	siya	sa	lahat	ng	taong	hindi	nakababatid	ng	kanyang	pinagmulan	.
+RP	RP	POSG	CP	CCA	CP	LM	JCJD	PRSG	CCT	PRI	CCB	CP	RF	JCJD	CCB	POSG	INRF	PMP
+7	1	4	2	4	5	0	7	8	8	12	13	10	15	13	18	18	15	18
+
+nagtipid	siya	hanggang	makaipon	ng	malaking	halaga	.
+PFAF	PRSG	RW	INAF	CCB	JCJD	CP	PMP
+0	1	1	3	7	7	4	7
+
+ngunit	nanaig	ang	pag-ibig	hanggang	may	nangyari	sa	kanila	.
+CCT	PFAF	CD	CP	RW	VH	INOF	CCT	POPL	PMP
+2	0	4	2	2	5	6	9	6	9
+
+nang	malaman	ito	ng	mga	magulang	ng	kasintahang	babae	ay	ipinakulong	ang	lalaki	.
+RW	INOF	DM	CCB	CDPL	CP	CCB	CP	CP	LM	PFOF	CD	CP	PMP
+10	1	2	6	6	2	6	7	8	0	10	13	11	13
+
+nagdalang-tao	ang	dalaga	at	nagsilang	siya	ng	kambal	-	isang	lalaki	at	isang	babae	.
+PFAF	CD	CP	CCA	PFAF	PRSG	CCB	CP	PMP	PRI	CP	CCA	PRI	CP	PMP
+0	3	1	1	4	5	8	5	10	11	8	11	14	12	14
+
+ako	ang	kakambal	na	lalaki	.
+PRSG	CD	CP	CCP	CP	PMP
+3	3	0	3	4	5
+
+pumanaw	ang	ina	namin	at	inilihim	naming	buhay	pa	ang	ama	naming	.
+INAF	CD	CP	PRPL	CCA	PFOF	PRPL	INAF	RI	CD	CP	PRPL	PMP
+0	3	1	3	1	5	6	6	8	11	6	11	12
+
+dahil	mayaman	ang	lolo	naming	,	kami	ay	nakapag-aral	ng	aking	kakambal	.
+CCR	JCJD	CD	CP	PRPL	PMC	PRPL	LM	JCJD	CCB	POSG	CP	PMP
+8	1	4	2	4	7	8	0	8	12	12	9	12
+
+sa	paaralan	ng	mga	heswita	ako	ipinasok	at	sa	la	concordia	naman	ang	aking	kakambal	.
+RL	RL	CCB	CDPL	NNP	PRSG	PFOF	CCA	CCT	CDSG	NNP	RI	CD	POSG	CP	PMP
+7	1	2	5	3	7	0	7	8	11	9	11	15	15	7	15
+
+may	mga	katulong	sa	bahay	at	may	masagana	kaming	ani	.
+VH	CDPL	CP	CCT	CP	CCA	VH	JCJD	PRPL	CP	PMP
+0	3	1	5	1	1	6	10	10	7	10
+
+ngunit	ang	katotohanan	ay	lumabas	.
+CCT	CD	CP	LM	INAF	PMP
+4	3	1	0	4	5
+
+isang	araw	noon	sa	isang	pagdiriwang	ay	may	nakasagutan	akong	isang	malayong	kamag-anak	.
+PRI	CP	RW	CCT	PRI	CP	LM	VH	JCJD	PRSG	JN	JCJD	CP	PMP
+2	7	2	2	6	4	0	7	8	9	13	13	9	13
+
+naging	mapagmataas	ako	at	tinawag	niya	kaming	magkapatid	na	criminal	.
+INOF	JCJD	PRSG	CCA	PFOF	PRSG	PRPL	CP	CCP	CP	PMP
+2	0	2	2	4	5	8	5	10	8	10
+
+nalantad	ang	pinagmulan	at	ang	baho	naming	magkapatid	.
+PFAF	CD	INRF	CCA	CD	CP	PRPL	CP	PMP
+0	3	1	3	6	4	6	6	8
+
+isang	araw	ay	may	isang	matandang	pumasok	na	katulong	sa	amin	.
+PRI	CP	LM	VH	JN	JCJD	INAF	CCP	CP	CCT	POPL	PMP
+2	3	0	3	6	7	4	7	8	11	9	11
+
+nakagaanan	namin	ng	loob	ang	matanda	.
+JCJD	PRPL	CCB	CP	CD	CP	PMP
+0	1	4	1	6	1	6
+
+natuklasan	naming	siya	ang	aming	ama	.
+PFOF	PRPL	PRSG	CD	POPL	CP	PMP
+0	1	1	6	6	1	6
+
+naglihim	siya	upang	mapalapit	at	mapaglingkuran	kami	.
+PFAF	PRSG	CCB	JCJD	CCA	INOF	PRPL	PMP
+0	1	1	3	4	5	4	7
+
+walang	tigil	ang	pag-alipusta	ng	lipunan	sa	aming	angkan	hanggang	talikuran	namin	ang	yamang	pinag-aawayan	ng	aming	mga	kamag-anak	.
+RF	CP	CD	CP	CCB	CP	CCT	POPL	CP	RW	INOF	PRPL	CD	CP	IMLF	CCB	POPL	CDPL	CP	PMP
+2	0	4	2	6	4	9	9	6	4	10	11	14	11	14	17	19	19	15	19
+
+hindi	nagtagal	,	dahil	sa	hirap	ng	loob	,	ang	ama	namin	ay	nagkasakit	at	namatay	.
+RF	PFAF	PMC	RP	RP	CP	CCB	CP	PMC	CD	CP	PRPL	LM	PFAF	CCA	PFAF	PMP
+2	13	4	2	4	5	6	7	10	13	13	11	0	13	14	15	16
+
+minsang	malakas	noon	ang	bagyo	,	hinanap	ko	ang	aking	kapatid	.
+RW	JCJD	RW	CD	CP	PMC	PFOF	PRSG	CD	POSG	CP	PMP
+3	5	7	5	7	7	0	7	11	11	7	11
+
+napabalitang	may	isang	babae	ang	may	tarak	na	kutsilyo	sa	dibdib	at	natagpuang	patay	sa	dalampasigan	ng	calamba	.
+JCJD	VH	PRI	CP	CD	VH	CP	CCP	CP	CCT	CP	CCA	RD	RD	RL	RL	CCB	NNP	PMP
+0	1	4	2	6	4	6	9	7	11	7	7	12	13	16	13	16	17	18
+
+nakarating	sa	akin	ang	masaklap	na	balita	.
+JCJD	CCT	POSG	CD	JCJD	CCP	CP	PMP
+0	3	1	7	7	5	1	7
+
+siya	nga	ang	aking	kapatid	ayon	sa	kanyang	kasuotan	at	kaanyuan	.
+PRSG	RI	CD	POSG	CP	RR	RR	POSG	CP	CCA	CP	PMP
+0	1	5	5	1	5	6	9	7	9	10	11
+
+mula	noon	ay	nagpalipat-lipat	na	ako	ng	lalawigan	.
+RW	RW	LM	PFAF	CCP	PRSG	CCB	CP	PMP
+3	1	0	3	4	4	8	4	8
+
+iyan	po	ang	kasaysayan	ng	aking	angkan	.
+DM	RBS	CD	CP	CCB	POSG	CP	PMP
+4	1	4	0	4	7	5	7
+
+maaaring	tama	ka	nang	sabihin	mong	dapat	biyayaan	ang	mga	mabubuting	mamamayan	at	tulungang	magbago	ang	mga	criminal	.
+RT	RT	PRSG	RW	INOF	PRSG	AS	INAF	CD	CDPL	JCJD	CP	CCA	RD	RD	CD	CDPL	CP	PMP
+2	0	2	2	4	5	4	7	12	12	12	8	8	15	13	18	18	15	18
+
+ngunit	sino	kaya	ang	magsasakatuparan	nito	?
+CCT	QISG	RI	CD	COOF	DM	PMQ
+2	0	2	5	2	5	6
+
+maaaring	tulungan	ang	mga	kriminal	ngunit	hindi	ito	maisasakatuparan	.
+RT	INOF	CD	CDPL	CP	CCT	RF	DM	COOF	PMP
+2	0	5	5	2	2	9	9	6	9
+
+hindi	tayo	makakapagtatag	ng	isang	bansa	kung	hindi	tayo	magsasama-sama	.
+RF	PRPL	COAF	CCB	PRI	CP	RK	RF	PRPL	COAF	PMP
+3	3	0	6	6	3	3	10	10	7	10
+
+hindi	magaganap	ang	hinihiling	ng	mga	tao	.
+RF	COOF	CD	IMOF	CCB	CDPL	CP	PMP
+2	0	4	2	4	7	5	7
+
+ang	paghihintay	ay	pagtitiis	ng	kahirapan	.
+CD	CP	LM	CP	CCB	CP	PMP
+2	3	0	3	6	4	6
+
+baka	pagtawanan	lamang	ako	ng	pamahalaan	.
+RM	CP	RI	PRSG	CCB	CP	PMP
+2	0	2	2	6	2	6
+
+bakit	naman	kayo	pagtatawanan	.
+QISG	RI	PRPL	CP	PMP
+0	1	4	1	4
+
+kailangang	buo	ang	loob	ninyo	at	isiping	nasa	likod	ninyo	ang	taong-bayan	.
+AS	JCJD	CD	CP	PRPL	CCA	INOF	RL	RL	PRPL	CD	CP	PMP
+0	1	4	2	4	2	6	7	8	9	12	9	12
+
+kung	may	gagamitin	silang	sandata	ay	papanigan	ko	ang	pamahalaan	.
+RK	VH	COOF	PRPL	CP	LM	COOF	PRSG	CD	CP	PMP
+6	1	2	3	3	0	6	7	10	7	10
+
+ito	ang	dahilan	kaya't	nagtayo	ako	ng	paaralan	.
+DM	CD	CP	CCR	PFAF	PRSG	CCB	CP	PMP
+0	3	1	1	4	5	8	5	8
+
+naniniwala	akong	nasa	kabataan	ang	pag-asa	ng	bayan	.
+IMAF	PRSG	RL	CP	CD	CP	CCB	CP	PMP
+0	1	1	3	6	4	6	7	8
+
+ang	kalayaan	po'y	hindi	mapagtatagumpayan	kung	hindi	ipakikipaglaban	.
+CD	CP	RBS	RF	COOF	RK	RF	IMAF	PMP
+2	5	2	5	0	5	8	6	8
+
+ganyang	uri	ng	kalayaan	ang	inyong	ipakikipaglaban	?
+CM	CP	CCB	CP	CD	POPL	IMAF	PMQ
+2	0	2	3	7	7	2	7
+
+kung	wala	pong	kalayaan	ay	wala	ring	liwanag	.
+RK	RF	RBS	CP	LM	RF	RI	CP	PMP
+5	1	2	2	0	5	6	6	8
+
+binanggit	ninyong	wala	kayong	nalalamang	kasaysayan	ng	bansa	.
+PFOF	PRPL	RF	PRPL	INAF	CP	CCB	CP	PMP
+0	1	1	5	3	5	6	7	8
+
+ngunit	hindi	ninyo	batid	ang	nakahandang	pag-aalsa	ng	mamamayan	.
+CCT	RF	PRPL	INAF	CD	JCJD	CP	CCB	CP	PMP
+2	4	4	0	7	7	4	7	8	9
+
+sa	mga	suliraning	idinadaing	ng	mga	tao	nag-uugat	ang	isang	madugong	labanan	.
+CCT	CDPL	CP	PFOF	CCB	CDPL	CP	IMAF	CD	JN	JCJD	CP	PMP
+8	4	4	1	6	7	4	0	12	12	12	8	12
+
+tinitigan	ni	ibarra	si	elias	.
+IMOF	PDSG	NNP	PDSG	NNP	PMP
+0	3	1	5	1	5
+
+ang	diyos	ay	nasa	likod	natin	.
+CD	NNP	LM	RL	RL	PRPL	PMP
+2	3	0	3	4	5	6
+
+nawa'y	patnubayan	ng	diyos	ang	isang	bansang	tumatayo	sa	ngalan	ng	kalayaan	.
+RI	INOF	CCB	NNP	CD	PRI	CP	IMAF	CCT	CP	CCB	CP	PMP
+2	0	4	2	7	7	2	7	10	8	10	11	12
+
+ano	po	ginoong	ibarra	ang	nais	ninyong	iparating	sa	mga	sawimpalad	na	nagpadala	sa	akin	?
+QISG	RBS	NNP	NNP	CD	AS	PRPL	INOF	CCT	CDPL	CP	CCP	PFAF	CCT	POSG	PMQ
+0	1	4	8	8	8	8	2	11	11	8	11	12	15	13	15
+
+nahahabag	ako	sa	kanila	ngunit	kailangan	nilang	maghintay	.
+IMAF	PRSG	CCT	POPL	CCT	AS	PRPL	INAF	PMP
+0	1	4	1	1	5	8	6	8
+
+hindi	maitutuwid	ang	kamalian	ng	isa	pang	kamalian	.
+RF	COOF	CD	CP	CCB	PRI	RI	CP	PMP
+2	0	4	2	4	8	8	5	8
+
+palagay	ko'y	dapat	tayong	sisihin	sa	kinahinatnan	ng	bansa	natin	.
+CP	PRSG	AS	PRPL	INOF	CCT	CP	CCB	CP	PRPL	PMP
+0	1	1	5	3	7	5	7	8	9	10
+
+hindi	nakakibo	si	elias	.
+RF	JCJD	PDSG	NNP	PMP
+2	0	4	2	4
+
+nakayuko	ito	at	nagpatuloy	sa	pagsagwan	.
+JCJD	DM	CCA	PFAF	CCT	CP	PMP
+0	1	1	3	6	4	6
+
+pagsapit	sa	dalampasigan	ay	nagkamay	ang	dalawa	.
+CP	CCT	CP	LM	PFAF	CD	CDB	PMP
+4	3	1	0	4	7	5	7
+
+papalayong	nilakad	ni	ibarra	ang	dalampasigan	.
+RD	RD	PDSG	NNP	CD	CP	PMP
+2	0	4	2	6	2	6
+
+sumakay	muli	si	elias	sa	bangka	na	waring	may	malalim	na	iniisip	.
+INAF	RW	PDSG	NNP	CCT	CP	CCP	RM	VH	JCJD	CCP	PFOF	PMP
+0	1	4	1	1	5	6	9	7	12	10	9	12
+
+sumagwan	siya	nang	sumagwan	.
+RD	PRSG	RD	RD	PMP
+0	1	1	3	4
+
+tanging	ang	malamlam	na	liwanag	ng	buwan	ang	sumisinag	sa	kanyang	mukha	.
+JCJD	CD	JCJD	CCP	CP	CCB	CP	CD	IMAF	CCT	POSG	CP	PMP
+5	5	5	3	9	5	6	9	0	11	12	9	12
+
+hindi	nagtagal	ay	nakarating	siya	sa	pampang	.
+RF	PFAF	LM	JCJD	PRSG	CCT	CP	PMP
+2	3	0	3	4	7	4	7
+
+itinali	ang	kanyang	bangka	sa	isang	poste	.
+PFOF	CD	POSG	CP	CCT	PRI	CP	PMP
+0	4	4	1	1	7	5	7
+
+may	napansin	siyang	sumalubong	sa	kanyang	pagdating	.
+VH	PFAF	PRSG	INAF	CCT	POSG	CP	PMP
+2	0	2	2	4	7	5	7
+
+ano	po	ang	ipararating	kay	kumander	?
+QISG	RBS	CD	COOF	PDSG	CP	PMQ
+0	1	4	1	6	4	6
+
+pakisabi	mong	hindi	ko	binabawi	ang	binitiwan	kong	salita	.
+RBS	PRSG	RF	PRSG	IMOF	CD	PFOF	PRSG	CP	PMP
+0	1	5	5	1	7	5	7	7	9
+
+kilala	ni	linares	ang	ugali	ni	donya	victorina	at	kaya	niyong	gawin	ang	anumang	banta	nito	.
+JCJD	PDSG	NNP	CD	CP	PDSG	NNP	NNP	CCA	JCJD	PRSG	INOF	CD	PRI	CP	DM	PMP
+0	3	1	5	1	5	8	6	1	12	12	9	15	15	12	8	16
+
+mawawalan	din	ng	saysay	ang	pakiusap	sa	kanya	ngunit	lalo	namang	masamang	magsinungaling	.
+COOF	RI	CCB	CP	CD	CP	CCT	POSG	CCT	JCCM	RI	RD	RD	PMP
+0	1	4	1	6	1	6	7	1	9	10	13	10	13
+
+wala	nang	ibang	paraan	kundi	hamunin	ng	duwelo	ang	tinyente	.
+RF	CCB	JCJD	CP	CCT	INOF	CCB	CP	CD	CP	PMP
+0	1	4	1	1	5	8	6	10	6	10
+
+paano	kung	ginang	niya	ang	maratnan	ko	?
+QISG	RK	CP	PRSG	CD	INOF	PRSG	PMQ
+0	1	6	3	6	1	6	7
+
+sino	ang	papayag	na	magiging	alalay	ko	sa	duwelo	.
+QISG	CD	INOF	CCP	COAF	CP	PRSG	CCT	CP	PMP
+0	3	1	3	4	5	6	9	5	9
+
+bakit	ba	ako	nakinig	sa	kanya	?
+QISG	RI	PRSG	PFAF	CCT	POSG	PMQ
+0	1	4	1	6	4	6
+
+bakit	ba	ito	ang	napasukan	ko	,	ang	magyabang	at	magpanggap	?
+QISG	RI	DM	CD	PFOF	PRSG	PMC	CD	INAF	CCA	INAF	PMQ
+0	1	5	5	1	5	8	9	1	9	10	11
+
+ano	ang	sasabihin	sa	akin	ni	clarita	?
+QISG	CD	COOF	CCT	POSG	PDSG	NNP	PMQ
+0	3	1	5	3	7	3	7
+
+ito	ang	naging	bunga	ng	aking	paghahambog	.
+DM	CD	INOF	CP	CCB	POSG	CP	PMP
+0	4	4	1	4	7	5	7
+
+nasa	gayong	balisang	pag-iisip	si	linares	nang	dumating	si	padre	salvi	.
+RL	CM	JCJD	CP	PDSG	NNP	RW	INAF	PDSG	NNP	NNP	PMP
+0	4	4	1	6	1	1	7	10	11	8	11
+
+payat	at	putlain	ang	pransiskano	ngunit	may	kislap	ang	kanyang	mga	mata	at	may	ngiti	sa	kanyang	labi	.
+JCJD	CCA	JCJD	CD	NNP	CCT	VH	CP	CD	POSG	CDPL	CP	CCA	VH	CP	CCT	POSG	CP	PMP
+5	1	2	5	0	1	6	7	12	11	12	8	7	13	14	18	18	15	18
+
+pinilit	ni	linares	na	ngumiti	.
+PFOF	PDSG	NNP	CCP	INAF	PMP
+0	3	1	1	4	5
+
+mayroon	akong	magandang	balita	sa	inyong	lahat	.
+VH	PRSG	JCJD	CP	CCT	POPL	PRI	PMP
+0	1	4	1	7	7	1	7
+
+nakatanggap	ako	ng	sulat	mula	sa	maynila	.
+JCJD	PRSG	CCB	CP	RL	RL	NNP	PMP
+0	1	4	1	1	5	6	7
+
+ito	ay	tungkol	kay	ibarra	.
+DM	LM	RR	RR	NNP	PMP
+2	0	2	3	4	5
+
+noong	una	ay	mali	ang	pag-aakala	ko	sa	kanya	.
+RW	CDB	LM	JCJD	CD	CP	PRSG	CCT	POSG	PMP
+3	1	0	3	6	4	6	9	6	9
+
+si	sinang	ay	waring	tuwang-tuwa	na	kung	nag-iisa	lamang	ay	maaaring	lumundag	sa	labis	na	kagalakan	.
+PDSG	NNP	LM	RM	JCJD	CCP	RK	PFAF	RI	LM	RT	INAF	CCT	JCCS	CCP	CP	PMP
+2	3	0	5	3	5	10	7	8	6	12	10	12	16	14	13	16
+
+tumayo	si	maria	clara	at	nagpaalam	upang	pumasok	sa	kanyang	silid	na	kasama	si	victoria	.
+INAF	PDSG	NNP	NNP	CCA	PFAF	CCB	INAF	CCT	POSG	CP	CCP	CP	PDSG	NNP	PMP
+0	4	4	1	1	5	6	7	8	11	9	11	12	15	13	15
+
+paano	kung	hindi	siya	patawarin	ni	padre	damaso	?
+QISG	RK	RF	PRSG	INOF	PDSG	NNP	NNP	PMQ
+0	1	5	5	2	7	8	5	8
+
+tiyak	na	maaayos	naman	ang	lahat	.
+RT	CCP	COOF	RI	CD	PRI	PMP
+3	1	0	3	6	3	6
+
+maya-maya'y	pumasok	si	ibarra	kasunod	si	tiya	isabel	.
+RW	INAF	PDSG	NNP	CP	PDSG	NNP	NNP	PMP
+2	0	4	2	4	8	8	5	8
+
+malugod	na	binati	ni	ibarra	si	kapitan	tiyago	na	hindi	malaman	kung	mapapangiti	o	luluha	.
+RD	RD	RD	PDSG	NNP	PDSG	NNP	NNP	CCP	RF	INOF	RK	COAF	CCT	COAF	PMP
+3	1	0	5	3	8	8	3	8	11	9	11	12	13	14	15
+
+magalang	na	yumukod	si	ibarra	kay	linares	.
+RD	RD	RD	PDSG	NNP	PDSG	NNP	PMP
+3	1	0	5	3	7	3	7
+
+si	padre	salvi	nama'y	buong	galang	na	nag-abot	ng	kamay	sa	binata	na	kinakitaan	ng	pagtataka	.
+PDSG	NNP	NNP	RI	JCJD	CP	CCP	PFAF	CCB	CP	CCT	CP	CCP	JCJD	CCB	CP	PMP
+3	3	8	3	6	8	6	0	10	8	12	8	12	13	16	14	16
+
+winika	ng	pari	sa	binata	na	pinupuri	niya	ito	.
+PFOF	CCB	CP	CCT	CP	CCP	IMOF	PRSG	DM	PMP
+0	3	1	5	1	1	6	7	7	9
+
+nagpasalamat	ang	binata	at	lumapit	kay	sinang	.
+PFAF	CD	CP	CCA	INAF	PDSG	NNP	PMP
+0	3	1	1	4	7	5	7
+
+hindi	namin	alam	kung	saang	purgatoryo	ka	nagpunta	.
+RF	PRPL	INAF	RK	RQ	CP	PRSG	PFAF	PMP
+3	3	0	3	4	5	8	6	8
+
+sa	isang	sulok	ng	sala	nag-usap	sina	ibarra	at	sinang	.
+CCT	PRI	CP	CCB	CP	PFAF	PDPL	NNP	CCA	NNP	PMP
+6	3	1	3	4	0	8	6	8	9	10
+
+sinang	,	galit	ba	sa	akin	si	maria	?
+NNP	PMC	CP	RI	CCT	POSG	PDSG	NNP	PMQ
+2	3	0	3	6	3	8	3	8
+
+nais	ni	kapitan	tiyagong	ipakasal	si	maria	kay	linares	.
+AS	PDSG	NNP	NNP	INOF	PDSG	NNP	PDSG	NNP	PMP
+0	1	4	2	1	7	5	9	5	9
+
+nang	biruin	namin	ni	victoria	si	maria	clara	na	may	nililigawan	ka	nang	iba	ay	umiyak	siya	.
+RW	INOF	PRPL	PDSG	NNP	PDSG	NNP	NNP	CCP	VH	IMOF	PRSG	RW	PRI	LM	INAF	PRSG	PMP
+15	1	2	5	2	8	8	2	2	9	10	11	11	11	0	15	16	17
+
+pakisabi	kay	maria	na	gusto	ko	siyang	makausap	nang	sarilinan	.
+RBS	PDSG	NNP	CCP	AS	PRSG	PRSG	RD	RD	RD	PMP
+0	3	1	1	4	5	8	5	10	8	10
+
+may	kasama	lagi	si	maria	.
+VH	CP	RW	PDSG	NNP	PMP
+0	1	1	5	1	5
+
+bukas	ng	gabi	,	ako	ang	kasama	niya	,	makakausap	mo	siya	.
+RW	CCB	CP	PMC	PRSG	CD	CP	PRSG	PMC	COOF	PRSG	PRSG	PMP
+7	1	2	5	7	7	0	7	10	7	10	10	12
+
+mapapansin	ang	sangang	tila	naglalakihang	kamay	na	sumasakmal	sa	kadiliman	.
+INAF	CD	CP	RM	JCJD	CP	CCP	IMAF	CCT	CP	PMP
+0	3	1	3	4	5	6	7	8	9	10
+
+ang	dilim	ay	lubhang	nagdudulot	ng	takot	sa	libingan	.
+CD	CP	LM	JCCS	IMAF	CCB	CP	CCT	CP	PMP
+2	3	0	5	3	7	5	5	8	9
+
+nakausap	mo	na	ba	si	elias	?
+JCJD	PRSG	RI	RI	PDSG	NNP	PMQ
+0	1	1	1	6	1	6
+
+iniligtas	siya	ni	don	crisostomo	ibarra	sa	kamatayan	.
+PFOF	PRSG	PDSG	NNP	NNP	NNP	CCT	CP	PMP
+0	1	6	6	6	1	1	7	8
+
+ipinagamot	pa	niya	ang	asawa	ko	sa	maynila	.
+PFOF	RI	PRSG	CD	CP	PRSG	CCT	NNP	PMP
+0	1	1	5	1	5	1	7	8
+
+palingun-lingon	ang	una	at	inaaninag	kung	sino	ang	sumusunod	sa	kanya	.
+JCJD	CD	CDB	CCA	IMOF	RK	RQ	CD	IMAF	CCT	POSG	PMP
+0	3	1	1	4	5	6	9	7	9	10	11
+
+ang	nauuna	ay	walang	iba	kundi	si	lucas	.
+CD	JCJD	LM	RF	JCJD	CCT	PDSG	NNP	PMP
+2	3	0	3	4	5	8	6	8
+
+may	sumusunod	sa	akin	,	umalis	na	kayo	.
+VH	IMAF	CCT	POSG	PMC	INAF	CCP	PRPL	PMP
+0	1	4	2	6	1	6	7	8
+
+si	lucas	ay	nagtago	sa	likod	ng	pintuan	ng	sementeryo	.
+PDSG	NNP	LM	PFAF	RL	RL	CCB	CP	CCB	CP	PMP
+2	3	0	3	4	5	6	7	8	9	10
+
+sumisilip	siya	sa	kalawanging	pinto	at	nagmatyag	kung	sino	ang	sumusunod	sa	kanyang	anino	.
+IMAF	PRSG	CCT	JCJD	CP	CCA	PFAF	RK	RQ	CD	IMAF	CCT	POSG	CP	PMP
+0	1	1	5	3	1	6	7	8	11	9	11	12	12	14
+
+naglaho	na	ang	liwanag	ng	buwan	nang	bumuhos	ang	malakas	na	ulan	.
+PFAF	CCP	CD	CP	CCB	CP	RW	INAF	CD	JCJD	CCP	CP	PMP
+0	1	4	1	4	5	1	7	10	12	10	8	12
+
+lalong	nag-amoy	patay	ang	paligid	sa	pagkabasa	ng	mga	puntod	.
+JCCM	PFAF	JCJD	CD	CP	CCT	CP	CCB	CDPL	CP	PMP
+2	0	2	5	2	2	6	10	10	7	10
+
+napilitang	tumakbo	at	magkanlong	si	elias	sa	likod	ng	pintuan	ng	sementeryong	may	bubong	na	yero	.
+RD	RD	CCA	INAF	PDSG	NNP	RL	RL	CCB	CP	CCB	CP	VH	CP	CCP	CP	PMP
+2	0	2	3	6	2	2	10	8	7	10	11	12	16	14	13	16
+
+nais	kong	makipagsugal	sa	mga	patay	mamayang	alas	otso	.
+AS	PRSG	INAF	CCT	CDPL	CP	RW	TS	TS	PMP
+0	1	1	3	6	4	3	9	7	9
+
+nais	ko	ring	makipagsugal	at	manalong	tulad	mo	.
+AS	PRSG	RI	INAF	CCA	INAF	JCCC	PRSG	PMP
+0	1	1	1	4	5	4	7	8
+
+mabuti	at	may	makakasama	ako	sa	pagsusugal	.
+JCJD	CCA	VH	COOF	PRSG	CCT	CP	PMP
+3	3	4	0	4	7	4	7
+
+ngayong	eksaktong	alas-otso	ng	gabi	tayo	magsusugal	.
+RW	JCJD	TS	CCB	CP	PRPL	COAF	PMP
+3	3	7	3	4	7	0	7
+
+ako	muna	ang	babalasa	.
+PRSG	RI	CD	COAF	PMP
+4	1	4	0	4
+
+pipiliin	ng	patay	ang	barahang	gagalaw	na	pipigilin	natin	.
+COOF	CCB	CP	CD	CP	COAF	CCP	COOF	PRPL	PMP
+0	3	1	5	1	5	6	7	8	9
+
+may	dala	ka	rin	bang	baraha	?
+VH	JCJD	PRSG	RI	RI	CP	PMQ
+0	1	2	2	2	2	6
+
+ikaw	ang	babalasa	para	sa	mga	patay	.
+PRSG	CD	COAF	RBB	RBB	CDPL	CP	PMP
+3	3	0	3	4	7	3	7
+
+inaasahan	ko	namang	ang	mga	patay	ang	babalasa	sa	aking	pakikipagsugal	.
+IMOF	PRSG	RI	CD	CDPL	CP	CD	COAF	CCT	POSG	CP	PMP
+0	1	1	6	6	1	8	1	1	11	9	11
+
+baka	hindi	pa	naipatutupad	ang	pagsang-ayong	makipagsugal	ang	mga	patay	.
+RK	RF	RI	IMOF	CD	CP	INAF	CD	CDPL	CP	PMP
+2	4	2	0	7	7	4	10	10	7	10
+
+sandaling	tumahimik	ang	nag-uusap	.
+RD	RD	CD	IMAF	PMP
+2	0	4	2	4
+
+ang	kaluluwa'y	hindi	makapipili	ng	mga	baraha	kung	higit	sa	isa	ang	kaharap	niya	.
+CD	CP	RF	COAF	CCB	CDPL	CP	RK	JCCM	JCCM	PRI	CD	CP	PRSG	PMP
+2	4	4	0	7	7	4	4	8	9	10	13	9	13	14
+
+kailangang	umalis	ang	sinumang	matatalo	.
+AS	INAF	CD	PRI	COOF	PMP
+2	0	5	5	2	5
+
+paghupa	ng	ulan	,	humanap	ng	lugar	ang	dalawa	na	kanilang	pagsusugalan	.
+CP	CCB	CP	PMC	INAF	CCB	CP	CD	CDB	CCP	POPL	CP	PMP
+5	3	1	5	0	7	5	9	5	5	12	10	12
+
+gumilid	sila	sa	mga	puntod	,	dumaan	sa	mga	talahiban	at	nakiraan	sa	mga	krus	na	kawayan	.
+INAF	PRPL	CCT	CDPL	CP	PMC	INAF	CCT	CDPL	CP	CCA	JCJD	CCT	CDPL	CP	CCP	CP	PMP
+0	1	1	5	3	7	1	7	10	8	7	11	12	15	13	17	15	17
+
+sa	sementadong	libing	sila	nagsugal	.
+CCT	JCJD	CP	PRPL	PFAF	PMP
+5	3	1	5	0	5
+
+ang	salansan	ng	baraha	ay	inilabas	ni	lucas	mula	sa	sumbrerong	buli	.
+CD	CP	CCB	CP	LM	PFOF	PDSG	NNP	RL	RL	CP	CP	PMP
+2	5	4	2	0	5	8	6	6	9	10	11	12
+
+nagsindi	ng	posporo	si	lucas	at	nagkasa	.
+PFAF	CCB	CP	PDSG	NNP	CCA	PFAF	PMP
+0	3	1	5	1	1	6	7
+
+napangiti	si	lucas	sapagkat	alas	ang	lumabas	na	baraha	.
+JCJD	PDSG	NNP	CCR	CP	CD	INAF	CCP	CP	PMP
+0	3	1	1	7	7	4	7	8	9
+
+nang	bumaba	muli	ang	alas	ay	napahalakhak	si	lucas	at	sinabing	panalo	siya	.
+RW	PFAF	RW	CD	CP	LM	JCJD	PDSG	NNP	CCA	PFOF	JCJD	PRSG	PMP
+2	6	2	5	3	0	6	9	7	7	10	11	12	13
+
+agad	tumayo	si	elias	at	umalis	.
+RD	RD	PDSG	NNP	CCA	INAF	PMP
+2	0	4	2	2	5	6
+
+maya-maya'y	tumugtog	ang	kampana	sa	simbahan	.
+RW	INAF	CD	CP	CCT	CP	PMP
+2	0	4	2	2	5	6
+
+narinig	iyon	hanggang	libingan	.
+PFAF	DM	RW	CP	PMP
+0	1	1	3	4
+
+batid	ni	lucas	na	iyon	na	ang	hudyat	ng	pagsapit	ng	alas-otso	.
+INAF	PDSG	NNP	CCP	DM	CCP	CD	CP	CCB	CP	CCB	TS	PMP
+0	3	1	1	1	5	8	5	8	9	12	10	12
+
+ito	ang	oras	ng	mga	kaluluwa	.
+DM	CD	CP	CCB	CDPL	CP	PMP
+3	3	0	3	6	4	6
+
+umusal	ng	dasal	si	lucas	.
+INAF	CCB	CP	PDSG	NNP	PMP
+0	3	1	5	1	5
+
+unti-unting	umambon	hanggang	bumuhos	ang	malakas	na	ulan	.
+RD	RD	RW	INAF	CD	JCJD	CCP	CP	PMP
+2	0	2	3	6	8	6	4	8
+
+samantala	,	sa	bayan	ay	agad	huminto	ang	malakas	na	ulan	na	parang	dumilig	lamang	sa	maalikabok	na	daan	.
+CCT	PMC	CCT	CP	LM	RD	RD	CD	JCCC	CCP	CP	CCP	CCT	INAF	RI	CCT	JCJD	CCP	CP	PMP
+5	3	1	3	0	7	5	11	11	9	7	11	12	13	14	14	19	17	16	19
+
+nagbibigay	liwanag	din	ito	sa	mga	posteng	umiilaw	sa	mga	gumagala	at	nagbabantay	na	militar	.
+IMAF	CP	RI	DM	CCT	CDPL	CP	IMAF	CCT	CDPL	IMAF	CCA	IMAF	CCP	CP	PMP
+0	1	4	1	1	7	5	7	8	11	9	11	12	13	14	15
+
+wala	tayong	maikukulong	na	katulong	ng	kura	.
+RF	PRPL	COOF	CCP	CP	CCB	CP	PMP
+3	3	0	3	4	5	6	7
+
+wala	na	rin	yatang	kriminal	na	mahuhuli	.
+RF	RI	RI	RM	CP	CCP	COOF	PMP
+0	1	1	1	7	5	1	7
+
+marahil	ay	ayaw	matulad	sa	taong	madilaw	.
+RM	LM	RF	INOF	CCT	CP	JCJD	PMP
+2	0	4	2	4	5	6	7
+
+kung	mahuhuli	natin	ang	bangkero	ay	maliligtas	tayo	sa	hagupit	ng	senyora	.
+RK	COOF	PRPL	CD	CP	LM	COOF	PRPL	CCT	CP	CCB	CP	PMP
+6	1	2	5	2	0	6	7	7	9	12	10	12
+
+kilala	mo	ba	si	elias	?
+JCJD	PRSG	RI	PDSG	NNP	PMQ
+0	1	1	5	1	5
+
+hindi	niya	ako	malilinlang	.
+RF	PRSG	PRSG	COOF	PMP
+4	4	4	0	4
+
+wala	siyang	kawala	sa	akin	.
+RF	PRSG	JCJD	CCT	POSG	PMP
+3	3	0	5	3	5
+
+naglakad	muli	ang	dalawang	guardia	civil	at	hawak	ang	mga	ripleng	handang	paputukin	kung	makakita	ng	salarin	.
+PFAF	RW	CD	JN	CP	CP	CCA	JCJD	CD	CDPL	CP	RD	RD	RK	INAF	CCB	CP	PMP
+0	1	6	5	6	1	1	7	11	11	8	11	12	12	14	17	15	17
+
+hinawakan	ng	dalawang	militar	ang	tinanong	at	nagkatinginan	sila	.
+PFOF	CCB	JN	CP	CD	PFOF	CCA	PFAF	PRPL	PMP
+0	4	4	1	6	1	6	7	8	9
+
+nakita	mo	ba	si	elias	?
+PFAF	PRSG	RI	PDSG	NNP	PMQ
+0	1	1	5	1	5
+
+hindi	ko	siya	kilala	.
+RF	PRSG	PRSG	JCJD	PMP
+4	4	4	0	4
+
+mabilis	na	umalis	si	lucas	.
+RD	RD	RD	PDSG	NNP	PMP
+3	1	0	5	3	5
+
+samantala	,	dumating	ang	ikalawang	anino	.
+CCT	PMC	INAF	CD	CDB	CP	PMP
+3	3	0	6	6	3	6
+
+hinawakan	ng	dalawang	militar	ang	kamay	ng	anino	at	itinapat	ang	mukha	nito	sa	liwanag	.
+PFOF	CCB	JN	CP	CD	CP	CCB	CP	CCA	PFOF	CD	CP	DM	CCT	CP	PMP
+0	4	4	1	6	1	6	7	1	9	12	10	12	15	10	15
+
+may	hinahabol	akong	lalaki	na	gumulpi	sa	aking	kapatid	.
+VH	IMOF	PRSG	CP	CCP	INAF	CCT	POSG	CP	PMP
+0	1	2	2	4	5	6	9	7	9
+
+may	pilat	ito	sa	mukha	at	elias	daw	ang	pangalan	.
+VH	CP	DM	CCT	CP	CCA	NNP	RI	CD	CP	PMP
+0	1	2	2	4	1	6	7	10	7	10
+
+agad	namang	hinabol	ng	dalawang	militar	ang	naunang	anino	na	nagtungo	sa	simbahan	.
+RD	RI	RD	CCB	JN	CP	CD	JCJD	CP	CCP	RL	RL	CP	PMP
+3	1	0	5	6	3	9	9	3	9	10	11	12	13
+
+nagkamot	lamang	ng	ulo	ang	dalawang	sundalo	nang	nawala	agad	ang	hinahabol	.
+PFAF	RI	CCB	CP	CD	JN	CP	RW	PFAF	RW	CD	IMOF	PMP
+0	1	4	1	7	7	1	1	8	9	12	9	12
+
+samantala	,	pangiti-ngiti	lamang	si	elias	na	naiwan	sa	isang	tabi	.
+CCT	PMC	JCJD	RI	PDSG	NNP	CCP	PFAF	CCT	PRI	CP	PMP
+3	3	0	3	6	3	6	7	8	11	9	11
+
+ayon	sa	kanya	,	ang	mga	ilaw	ay	hindi	lalampas	sa	dalawampu	.
+RR	RR	POSG	PMC	CD	CDPL	CP	LM	RF	COAF	CCT	CDB	PMP
+7	1	2	5	7	7	8	0	10	8	10	11	12
+
+sumabad	sa	usapan	si	hermana	sipa	ng	confraternidad	ng	kabanal-banalang	rosaryo	.
+INAF	CCT	CP	PDSG	NNP	NNP	CCB	NNP	CCB	NNP	NNP	PMP
+0	3	1	5	6	1	6	7	8	11	9	11
+
+dahil	kilala	raw	niya	ang	ilan	sa	mga	ito	,	ipinagdasal	na	lamang	niya	ang	mga	ito	at	pinatawad	.
+CCR	JCJD	RI	PRSG	CD	QISG	CCT	CDPL	DM	PMC	PFBF	RI	RI	PRSG	CD	CDPL	DM	CCA	PFOF	PMP
+11	1	2	2	6	2	8	9	6	11	0	11	11	11	17	17	11	11	18	19
+
+si	hermana	rufa	naman	ay	hindi	matalas	ang	pandinig	kaya't	umisip	naman	siya	ng	isasalaysay	kung	sakaling	tanungin	siya	.
+PDSG	NNP	NNP	RI	LM	RF	JCJD	CD	CP	CCR	INAF	RI	PRSG	CCB	INOF	RK	RM	INOF	PRSG	PMP
+3	3	5	3	0	7	5	9	7	7	10	11	11	15	11	15	16	17	18	19
+
+maraming	natakot	sa	salaysay	na	iyon	at	tinanong	kung	kasama	raw	ba	sila	.
+JN	PFAF	CCT	CP	CCP	DM	CCA	PFOF	RK	CP	RI	RI	PRPL	PMP
+2	0	4	2	4	5	2	7	8	9	10	10	10	13
+
+sa	pagkukuwentuhang	iyon	,	isang	bata	ang	pumagitna	.
+CCT	CP	DM	PMC	PRI	CP	CD	INAF	PMP
+8	1	2	5	6	8	8	0	8
+
+minura	ng	mga	kababaihan	ang	batang	lalaki	.
+PFOF	CCB	CDPL	CP	CD	JCJD	CP	PMP
+0	4	4	1	7	7	1	7
+
+nagmamagaling	ka	bang	bata	ka	?
+IMAF	PRSG	RI	CP	PRSG	PMQ
+0	1	1	1	1	5
+
+mas	mahusay	ka	ba	sa	pagmamasid	kung	ihahambing	sa	mga	manang	na	ito	?
+JCCM	JCJD	PRSG	RI	CCT	CP	RK	COOF	CCT	CDPL	CP	CCP	DM	PMQ
+2	0	2	2	2	5	6	7	8	11	9	11	12	13
+
+dahil	napahiya	,	umalis	na	lang	ang	inosenteng	bata	na	dala-dala	ang	ipinapastol	na	kalabaw	.
+CCR	JCJD	PMC	INAF	CCP	RI	CD	JCJD	CP	CCP	JCJD	CD	IMOF	CCP	CP	PMP
+4	1	4	0	4	4	8	9	4	9	10	15	15	13	11	15
+
+kinaumagahan	,	muling	nagsermon	ang	kura	tungkol	sa	kahalagahan	ng	mga	panalanging	makatutulong	sa	ikapapanatag	ng	mga	kaluluwa	.
+RW	PMC	RW	PFAF	CD	CP	RR	RR	CP	CCB	CDPL	CP	COAF	CCT	COOF	CCB	CDPL	CP	PMP
+4	3	4	0	6	4	4	7	8	12	12	9	12	13	14	18	18	15	18
+
+si	don	filipo	nama'y	dumalaw	kay	pilosopo	tasyo	na	noo'y	nakaratay	sa	banig	ng	karamdaman	.
+PDSG	NNP	NNP	RI	INAF	PDSG	NNP	NNP	CCP	RW	JCJD	CCT	CP	CCB	CP	PMP
+3	3	5	3	0	8	8	5	8	11	9	11	12	13	14	15
+
+pakiramdam	ng	maysakit	ay	hindi	na	tatagal	ang	kanyang	buhay	.
+CP	CCB	CP	LM	RF	CCP	JCJD	CD	POSG	CP	PMP
+4	3	1	0	7	5	4	10	10	7	10
+
+pinilit	ng	matanda	na	sumandal	sa	unan	nang	makita	si	don	filipo	.
+PFOF	CCB	CP	CCP	INAF	CCT	CP	RW	INOF	PDSG	NNP	NNP	PMP
+0	3	1	1	4	5	6	1	8	12	12	9	12
+
+hindi	ko	alam	kung	babatiin	ko	kayo	ngayong	pinayagan	na	kayong	magbitiw	sa	tungkulin	.
+RF	PRSG	INAF	RK	COOF	PRSG	PRPL	RW	PFOF	CCP	PRPL	INAF	CCT	CP	PMP
+3	3	0	3	4	5	5	9	5	9	12	10	12	13	14
+
+dapat	pong	nasa	puwesto	kayo	at	lumalaban	sa	oras	ng	digmaan	.
+AS	RBS	RL	CP	PRPL	CCA	IMAF	CCT	CP	CCB	CP	PMP
+3	3	0	3	3	3	6	9	7	9	10	11
+
+nang	ipakulong	ko	ang	guardia	civil	noong	pista	ay	pinalabas	din	ng	alkalde	kinabukasan	.
+RW	INOF	PRSG	CD	CP	CP	RW	CP	LM	PFOF	RI	CCB	CP	RW	PMP
+9	1	2	6	6	2	2	7	0	9	10	13	10	10	14
+
+ano	po	ang	magagawa	ko	bilang	bise-Alkalde	kung	mismong	nakatataas	sa	akin	ay	di	nagpapahalaga	.
+QISG	RBS	CD	COOF	PRSG	CCT	NNP	RK	RT	JCJD	CCT	POSG	LM	RF	IMAF	PMP
+0	1	4	1	4	7	4	4	10	8	12	13	10	15	13	15
+
+isipin	ninyong	higit	na	nakaaangat	ang	karapatan	ng	tao	kaysa	sa	isang	alkalde	lamang	.
+INOF	PRPL	JCCM	CCP	JCJD	CD	CP	CCB	CP	JCCC	JCCC	PRI	CP	RI	PMP
+0	1	5	3	7	7	1	7	8	7	10	13	11	13	14
+
+tingnan	na	lamang	ninyo	si	senor	crisostomo	ibarra	.
+INOF	CCP	RI	PRPL	PDSG	NNP	NNP	NNP	PMP
+0	1	1	1	8	8	8	1	8
+
+nagpapakumbaba	siya	sa	anumang	bagay	na	nais	ng	mga	maykapangyarihan	.
+IMAF	PRSG	CCT	PRI	CP	CCP	AS	CCB	CDPL	CP	PMP
+0	1	1	5	3	5	6	10	10	7	10
+
+kung	ito	sana	ang	inyong	mga	ipinakipaglaban	,	nakatitiyak	akong	may	mga	makikiisa	sa	inyo	.
+RK	DM	INAF	CD	POPL	CDPL	JCJD	PMC	JCJD	PRSG	VH	CDPL	COAF	CCT	POPL	PMP
+9	7	2	7	7	7	1	9	0	9	9	13	11	13	14	15
+
+iba	na	ang	ating	bayan	di	tulad	noong	dalawampung	taon	na	ang	nakalilipas	.
+PRI	CCP	CD	POPL	CP	RF	JCCC	RW	JN	CP	CCP	CD	JCJD	PMP
+5	1	5	5	0	7	5	7	10	13	10	13	8	13
+
+iyan	po	ba	ang	paniwala	ninyo	?
+DM	RBS	RI	CD	CP	PRPL	PMQ
+5	1	1	5	0	5	6
+
+magmasid	ka	sa	paligid	at	ihambing	ang	nakaraan	sa	kasalukuyan	.
+INAF	PRSG	CCT	CP	CCA	INOF	CD	CP	CCT	CP	PMP
+0	1	1	3	1	5	8	6	6	9	10
+
+nababatid	na	ng	tao	na	ang	ipinamana	sa	kanya	ng	panginoon	ay	ang	daigdig	.
+IMAF	CCP	CCB	CP	CCP	CD	PFOF	CCT	POSG	CCB	NNP	LM	CD	CP	PMP
+0	1	4	1	1	7	12	7	8	11	7	5	14	12	14
+
+mayroon	na	ring	matatalinong	manananggol	sa	hukuman	na	magbibigay	ng	liwanag	sa	mga	pilipino	.
+VH	CCP	RI	JCJD	CP	CCT	CP	CCP	COAF	CCB	CP	CCT	CDPL	NNP	PMP
+0	1	1	5	1	1	6	1	1	11	9	9	14	12	14
+
+sila'y	dapat	bigyang	parangal	.
+PRPL	AS	INOF	CP	PMP
+3	3	0	3	4
+
+dapat	ding	itaguyod	ang	kaunlaran	at	pagsulong	ng	katarungang	kanilang	ipinakikipaglaban	.
+AS	RI	INOF	CD	CP	CCA	CP	CCB	CP	POPL	IMOF	PMP
+3	1	0	5	3	5	6	9	7	11	9	11
+
+kung	lahat	po	sana	ay	naghahangad	na	matuto	.
+RK	PRI	RBS	RI	LM	RD	RD	RD	PMP
+5	1	2	3	0	5	8	6	8
+
+baka	marami	pa	ang	mamatay	sa	pagnanais	na	makamtan	ang	kaunlaran	ng	ating	bansa	.
+RM	JCJD	RI	CD	INOF	CCT	CP	CCP	INOF	CD	CP	CCB	POPL	CP	PMP
+2	0	2	5	2	2	6	7	8	11	9	14	14	9	14
+
+sa	pamamahayag	po	ay	naroroon	ang	katotohanan	!
+CCT	CP	RBS	LM	RL	CD	CP	PME
+4	1	2	0	4	7	5	7
+
+ngunit	sinabi	ninyong	pinupuna	ang	mga	heswita	sa	europa	.
+CCT	PFOF	PRPL	IMOF	CD	CDPL	NNP	CCT	NNP	PMP
+2	0	2	2	7	7	4	4	8	9
+
+nabibilang	sila	sa	nahuhuling	napapasama	sa	agos	.
+IMAF	PRPL	CCT	JCJD	IMAF	CCT	CP	PMP
+0	1	1	5	3	7	5	7
+
+nahuhuli	sila	sa	mga	europeo	.
+IMAF	PRPL	CCT	CDPL	NNP	PMP
+0	1	1	5	3	5
+
+kung	ang	pilipinas	ay	nahuhuli	ng	tatlong	daang	taon	sa	pandaigdig	na	kaunlaran	higit	na	nahuhuli	ang	mga	dominiko	.
+RK	CD	NNP	LM	IMAF	CCB	JN	JN	CP	CCT	CP	CCP	CP	JCCC	CCP	IMAF	CD	CDPL	NNP	PMP
+3	3	4	0	4	9	8	9	5	5	13	11	10	5	14	15	19	19	16	19
+
+sa	aking	palagay	ay	dapat	tayong	mamili	kung	padadala	tayo	sa	nakaraan	o	yayakap	sa	hinaharap	.
+CCT	POSG	CP	LM	AS	PRPL	INOF	RK	COOF	PRPL	CCT	CP	CCT	COAF	CCT	IMOF	PMP
+4	3	1	0	7	7	4	7	8	9	9	11	12	13	14	15	16
+
+napansin	ni	pilosopo	tasyo	na	hindi	kumukurap	ang	mga	mata	ni	don	filipo	.
+PFAF	PDSG	NNP	NNP	CCP	RF	IMAF	CD	CDPL	CP	PDSG	NNP	NNP	PMP
+0	3	4	1	1	7	5	10	10	7	13	13	7	13
+
+malubha	nga	ang	sakit	ko	ngunit	may	karapatan	naman	siguro	akong	mangarap	.
+JCJD	RI	CD	CP	PRSG	CCT	VH	CP	RI	RM	PRSG	INAF	PMP
+0	1	4	1	1	1	6	7	8	8	12	8	12
+
+lubhang	kaawa-awa	ang	kalagayan	ng	mga	kabataang	walang	tinitingnang	huwaran	na	binubukalan	ng	mabuting	kaasalan	at	kaunlarang	espirituwal	.
+JCCM	JCJD	CD	CP	CCB	CDPL	CP	RF	IMOF	CP	CCP	IMOF	CCB	JCJD	CP	CCA	CP	CP	PMP
+2	0	4	2	7	7	2	9	7	12	10	9	15	15	12	15	16	17	18
+
+sa	palagay	ko'y	dapat	nang	simulan	ng	kalalakihan	at	kababaihan	ang	kaunlaran	sa	ating	bayan	.
+CCT	CP	PRSG	AS	RW	INOF	CCB	CP	CCA	CP	CD	CP	CCT	POPL	CP	PMP
+6	1	2	6	6	0	8	6	8	9	12	6	6	15	13	15
+
+kung	maisasagawa	ito	,	matatanggap	ko	na	ang	aking	kamatayan	.
+RK	COOF	DM	PMC	COOF	PRSG	CCP	CD	POSG	CP	PMP
+5	1	2	5	0	5	5	10	10	5	10
+
+uminom	po	kayo	ng	inyong	gamut	.
+INAF	RBS	PRPL	CCB	POPL	CP	PMP
+0	1	1	6	6	1	6
+
+hindi	na	kailangan	ng	gamot	ng	isang	taong	mamamatay	na	.
+RF	RI	AS	CCB	CP	CCB	PRI	CP	COAF	RI	PMP
+3	1	0	5	3	8	8	3	8	9	10
+
+dapat	iyang	ibigay	sa	mga	maiiwan	.
+AS	DM	INOF	CCT	CDPL	COOF	PMP
+3	3	0	6	6	3	6
+
+pakisabi	kay	senor	crisostomo	na	dalawin	niya	ako	bukas	.
+RBS	PDSG	NNP	NNP	CCP	INOF	PRSG	PRSG	RW	PMP
+0	4	4	1	1	5	6	6	6	9
+
+may	mahalaga	akong	sasabihin	sa	kanya	.
+VH	JCJD	PRSG	COOF	CCT	POSG	PMP
+0	4	4	1	4	5	6
+
+hindi	nagtagal	ay	tumindig	na	at	nagpaalam	si	don	filipo	.
+RF	PFAF	LM	INAF	RI	CCA	PFAF	PDSG	NNP	NNP	PMP
+2	3	0	3	4	4	6	10	10	7	10
+
+bago	bumaba	sa	hagdan	ay	lumingon	muli	sa	maysakit	na	hinangaan	niya	dahil	sa	malawak	nitong	pag-iisip	.
+RW	INAF	CCT	CP	LM	INAF	RW	CCT	CP	CCP	PFOF	PRSG	RP	RP	JCJD	DM	CP	PMP
+2	5	2	3	0	5	6	6	6	9	10	11	11	13	17	17	14	17
+
+pati	na	ang	kalabaw	ay	pinahinto	ng	magsasakang	papauwi	mula	sa	bukid	at	pagkatapos	ay	umusal	siya	ng	panalangin	.
+CCA	CCP	CD	CP	LM	PFOF	CCB	CP	JCJD	RL	RL	CP	CCA	RW	LM	INAF	PRSG	CCB	CP	PMP
+4	1	4	5	0	5	8	6	8	9	10	11	6	15	13	15	16	19	16	19
+
+ang	manunugal	ay	huminto	sa	paghimas	sa	kanyang	sasabungin	at	nanalangin	upang	magkaroon	ng	suwerte	sa	sugal	.
+CD	CP	LM	INAF	CCT	CP	CCT	POSG	COOF	CCA	INOF	CCB	INAF	CCB	CP	CCT	CP	PMP
+2	3	0	3	4	5	6	9	7	4	10	11	12	15	13	15	16	17
+
+sa	loob	ng	mga	tahanan	ay	maririnig	ang	malakas	na	pagdarasal	ng	aba	ginoong	maria	.
+RL	RL	CCB	CDPL	CP	LM	COOF	CD	JCJD	CCP	CP	CCB	NNP	NNP	NNP	PMP
+6	1	2	5	3	0	6	11	11	11	7	11	15	15	12	15
+
+hindi	pinansin	ni	padre	salvi	ang	mga	babaing	huminto	sa	pagdarasal	na	nais	humalik	sa	kanyang	kamay	.
+RF	PFOF	PDSG	NNP	NNP	CD	CDPL	CP	INAF	CCT	CP	CCP	AS	INAF	CCT	POSG	CP	PMP
+2	0	5	5	2	8	8	2	8	9	10	8	12	13	14	17	15	17
+
+marahil	ay	mayroon	siyang	pinagkakaabalahang	ibang	bagay	na	higit	pa	sa	kapakanan	ng	simbahan	.
+RM	LM	VH	PRSG	IMOF	JCJD	CP	CCP	JCCM	RI	CCT	CP	CCB	CP	PMP
+2	0	2	3	7	7	3	7	8	9	10	11	12	13	14
+
+dali-dali	siyang	umakyat	sa	bahay	ng	alperes	at	kumatok	nang	sunud-sunod	.
+RD	PRSG	RD	CCT	CP	CCB	CP	CCA	RD	RD	RD	PMP
+3	3	0	3	4	5	6	3	8	9	10	11
+
+lumabas	sa	pinto	ang	alperes	kasunod	ang	asawang	may	mapang-asar	na	ngiti	.
+INAF	CCT	CP	CD	CP	CP	CD	CP	VH	JCJD	CCP	CP	PMP
+0	1	2	5	1	1	8	6	8	12	10	9	12
+
+mababaril	ko	ang	kambing	na	iyon	sa	susunod	.
+COOF	PRSG	CD	CP	CCP	DM	CCT	CP	PMP
+0	1	4	1	4	4	1	7	8
+
+sa	palagay	ba	ninyo	ay	kaya	akong	patayin	ng	pipituhing	buwang	bata	?
+CCT	CP	RI	PRPL	LM	RD	PRSG	RD	CCB	JCJD	CP	CP	PMQ
+5	1	2	2	0	8	8	5	12	11	12	8	12
+
+napaatras	si	padre	salvi	at	napatingin	sa	bota	ng	alperes	.
+JCJD	PDSG	NNP	NNP	CCA	JCJD	CCT	CP	CCB	CP	PMP
+0	4	4	1	1	5	6	7	8	9	10
+
+naparito	ako	upang	pag-usapan	ang	isang	mahalagang	bagay	.
+RL	PRSG	CCB	CP	CD	JN	JCJD	CP	PMP
+0	1	1	3	8	8	8	4	8
+
+napansin	ng	alperes	ang	pamumutla	ng	prayle	.
+PFAF	CCB	CP	CD	CP	CCB	CP	PMP
+0	3	1	5	1	5	6	7
+
+mahusay	bang	bumaril	ang	binatang	iyon	?
+JCJD	RI	INAF	CD	CP	DM	PMQ
+3	1	0	5	3	5	6
+
+sino	ba	ang	tinutukoy	ninyo	?
+QISG	RI	CD	IMOF	PRPL	PMQ
+0	1	4	1	4	5
+
+sumulyap	ang	prayle	sa	pinto	.
+INAF	CD	CP	CCT	CP	PMP
+0	3	1	5	1	5
+
+nakagawian	na	ng	alperes	na	sipain	iyong	pasara	.
+JCJD	CCP	CCB	CP	CCP	RD	DM	RD	PMP
+0	1	4	1	4	5	6	6	8
+
+isang	napakalakas	na	mura	at	atungal	ang	narinig	sa	likod	ng	pinto	.
+JN	JCCS	CCP	CP	CCA	CP	CD	PFAF	RL	RL	CCB	CP	PMP
+4	4	2	8	4	5	8	0	8	12	10	9	12
+
+iyon	ay	si	donya	consolacion	.
+DM	LM	PDSG	NNP	NNP	PMP
+2	0	5	5	2	5
+
+bakit	ba	kayo	nagmamadaling	pumarito	?
+QISG	RI	PRPL	RD	RD	PMQ
+0	1	5	5	1	5
+
+ang	tinutukoy	ko	ay	isang	malaking	panganib	.
+CD	IMOF	PRSG	LM	JN	JCJD	CP	PMP
+2	4	2	0	7	7	4	7
+
+mapapatunayan	ninyo	ngayon	ang	kahalagahan	ng	mga	prayle	.
+COAF	PRPL	RW	CD	CP	CCB	CDPL	CP	PMP
+0	2	2	6	2	6	9	7	9
+
+natuklasan	ko	ang	isang	malaking	sabwatan	.
+PFOF	PRSG	CD	JN	JCJD	CP	PMP
+0	1	6	6	6	1	6
+
+tumindig	ang	alperes	at	tinitigan	ang	prayle	.
+INAF	CD	CP	CCA	IMOF	CD	CP	PMP
+0	3	1	1	4	7	5	7
+
+may	malaking	sabwatang	magaganap	ngayong	gabi	.
+VH	JCJD	CP	COOF	RW	CP	PMP
+0	3	1	3	4	5	6
+
+agad	kinuha	ng	alperes	ang	kanyang	baril	at	sableng	nakasabit	sa	dingding	.
+RD	RD	CCB	CP	CD	POSG	CP	CCA	CP	JCJD	CCT	CP	PMP
+2	0	4	2	6	7	2	7	8	9	10	11	12
+
+sasalakayin	daw	ang	kwartel	mamayang	alas	otso	.
+COOF	RI	CD	CP	RW	TS	TS	PMP
+0	1	4	1	1	7	5	7
+
+lulusubin	din	ang	kumbento	,	aagawin	ang	bangkang	pamatrulya	at	lilipulin	ang	lahat	ng	mga	kastila	.
+COOF	RI	CD	CP	PMC	COOF	CD	CP	CP	CCA	COOF	CD	PRI	CCB	CDPL	NNP	PMP
+0	1	4	1	6	1	8	6	8	1	10	13	16	16	16	11	16
+
+kung	gayo'y	dadakpin	ko	ang	babae	.
+CCR	CCR	COOF	PRSG	CD	CP	PMP
+3	3	0	3	6	3	6
+
+ang	kumpisalan	ay	trono	ng	awa	ng	diyos	.
+CD	CP	LM	CP	CCB	CP	CCB	NNP	PMP
+2	3	0	3	4	5	6	7	8
+
+ang	kailangan	ay	maging	handa	.
+CD	AS	LM	INAF	JCJD	PMP
+2	3	0	3	4	5
+
+maging	panatag	din	sa	paghihintay	ang	inyong	mga	sundalo	.
+INAF	JCJD	RI	CCT	CP	CD	POPL	CDPL	CP	PMP
+0	1	2	1	4	9	9	9	5	9
+
+bigyan	n'yo	lamang	ako	ng	apat	na	sibil	na	magbabantay	sa	kumbento	.
+INOF	PRSG	RI	PRSG	CCB	CDB	CCP	CP	CCP	COAF	CCT	CP	PMP
+0	1	1	1	8	8	6	1	8	9	10	11	12
+
+bigyan	din	ng	babala	ang	mga	tauhan	ng	patrulya	.
+INOF	RI	CCB	CP	CD	CDPL	CP	CCB	CP	PMP
+0	1	4	1	7	7	1	7	8	9
+
+hihingi	ako	ng	tulong	sa	iba	.
+COAF	PRSG	CCB	CP	CCT	PRI	PMP
+0	1	4	1	1	5	6
+
+maaaring	hindi	nila	ituloy	ang	kanilang	mga	balak	.
+RT	RF	PRPL	INOF	CD	POPL	CDPL	CP	PMP
+0	4	4	1	8	8	8	4	8
+
+ang	mahalaga	ay	mahuli	ninyo	sila	ng	buhay	at	makausap	.
+CD	JCJD	LM	INOF	PRPL	PRPL	CCB	JCJD	CCA	INAF	PMP
+2	3	0	3	4	4	8	4	4	9	10
+
+bilang	isang	pari	ay	hindi	ako	dapat	masangkot	sa	ganyan	.
+CCT	PRI	CP	LM	RF	PRSG	AS	INOF	CCT	CM	PMP
+4	3	1	0	8	8	5	4	10	8	10
+
+mapapataas	ang	inyong	tungkulin	pag	naisagawa	ninyo	ito	.
+COOF	CD	POPL	CP	RK	COOF	PRPL	DM	PMP
+0	4	4	1	1	5	6	6	8
+
+hinihiling	ko	lamang	na	huwag	ninyong	itala	na	ako	ang	nagsuplong	sa	inyo	.
+IMOF	PRSG	RI	CCP	RF	PRPL	INOF	CCP	PRSG	CD	PFAF	CCT	POPL	PMP
+0	1	1	1	7	7	4	7	11	11	8	13	11	13
+
+kung	gayon	ay	magpadala	kayo	sa	akin	ng	apat	na	sundalong	nakasibilyan	.
+CCR	CCR	LM	INAF	PRPL	CCT	POSG	CCB	CDB	CCP	CP	JCJD	PMP
+4	2	0	4	5	5	7	12	12	10	5	12	13
+
+samantala	,	isang	tumatakbong	lalaki	ang	nagtungo	sa	bahay	ni	ibarra	at	agad	na	umakyat	ng	hagdan	.
+CCT	PMC	PRI	IMAF	CP	CD	PFAF	CCT	CP	PDSG	NNP	CCA	RD	RD	RD	CCB	CP	PMP
+7	3	5	5	7	7	0	7	8	9	10	7	15	13	12	17	15	17
+
+nasa	kanya	pong	aklatan	.
+RL	POSG	RBS	CP	PMP
+0	4	1	1	4
+
+nakalimutan	kong	itanong	kahapon	ang	pangalan	ng	kastilang	may	bahay	na	tinirhan	ng	iyong	lolo	.
+JCJD	PRSG	INOF	RW	CD	CP	CCB	NNP	VH	CP	CCP	PFOF	CCB	POSG	CP	PMP
+0	1	1	3	6	4	6	7	8	9	12	10	12	15	13	15
+
+hindi	ako	naparito	para	sa	aking	pansariling	kapakanan	.
+RF	PRSG	RL	RBB	RBB	POSG	CP	CP	PMP
+3	3	0	3	4	8	8	5	8
+
+ang	kawayang	ito	ay	hindi	nasusunog	.
+CD	CP	DM	LM	RF	IMAF	PMP
+3	3	4	0	6	4	6
+
+tipunin	ninyo	ang	lahat	ng	inyong	mga	dokumento	at	umalis	kayo	agad	.
+INOF	PRPL	CD	PRI	CCB	POPL	CDPL	CP	CCA	INAF	PRPL	RW	PMP
+0	1	8	8	4	8	8	1	1	9	10	10	12
+
+may	pagtatakang	tiningnan	ni	ibarra	si	elias	at	nang	mapuna	niyang	hindi	ito	nagbibiro	ay	nabitiwan	niya	ang	hawak	.
+VH	CP	PFOF	PDSG	NNP	PDSG	NNP	CCA	RW	INOF	PRSG	RF	DM	IMAF	LM	PFOF	PRSG	CD	CP	PMP
+3	1	0	5	3	7	3	3	8	14	10	14	14	15	9	15	16	19	16	19
+
+sunugin	ninyo	ang	anumang	makapagdudulot	ng	kapahamakan	sa	inyo	.
+INOF	PRPL	CD	PRI	COAF	CCB	CP	CCT	POPL	PMP
+0	1	4	1	4	7	5	5	8	9
+
+magtungo	kayo	sa	isang	ligtas	na	lugar	sa	loob	ng	isang	oras	.
+INAF	PRPL	CCT	JN	JCJD	CCP	CP	CCT	CP	CCB	PRI	CP	PMP
+0	1	1	7	7	5	3	1	11	9	12	8	12
+
+itago	ninyo	ang	lahat	ng	mahahalagang	bagay	.
+INOF	PRPL	CD	PRI	CCB	JCJD	CP	PMP
+0	1	7	6	4	7	1	7
+
+sunugin	ang	lahat	ng	papeles	na	isinulat	ninyo	o	ipinadala	sa	inyo	.
+INOF	CD	PRI	CCB	CP	CCP	PFOF	PRPL	CCT	PFOF	CCT	POPL	PMP
+0	5	5	3	1	5	6	7	7	9	10	11	12
+
+ang	mga	ito	ay	maaaring	gamitin	laban	sa	inyo	.
+CD	CDPL	DM	LM	RT	INOF	RF	RF	POPL	PMP
+3	3	4	0	6	4	6	7	8	9
+
+natuklasan	ko	ang	balak	na	pag-aalsa	at	kayo	ang	pagbibintangan	at	mapapahamak	.
+PFOF	PRSG	CD	CP	CCP	CP	CCA	PRPL	CD	CP	CCA	INAF	PMP
+0	1	4	1	6	4	1	10	10	7	10	11	12
+
+hindi	ko	na	nagawang	alamin	pa	kung	sino	ang	may	pakana	.
+RF	PRSG	CCP	RD	RD	RI	RK	RQ	CD	VH	CP	PMP
+4	4	1	5	0	5	5	7	10	8	10	11
+
+kanina	lamang	ay	kausap	ko	ang	isang	taong	binayaran	para	sumama	sa	pag-aalsa	.
+RW	RI	LM	CP	PRSG	CD	PRI	CP	PFOF	CCT	INAF	CCT	CP	PMP
+3	1	0	3	4	8	8	4	8	9	10	11	12	13
+
+hindi	ko	na	siya	nahimok	na	umurong	.
+RF	PRSG	CCP	PRSG	RD	RD	RD	PMP
+5	5	1	5	0	5	6	7
+
+sinabi	ba	niya	kung	sino	ang	nagbayad	sa	kanya	?
+PFOF	RI	PRSG	RK	RQ	CD	PFAF	CCT	POSG	PMQ
+0	1	1	1	4	7	5	7	8	9
+
+sinabi	niyang	kayo	ang	nagbayad	.
+PFOF	PRSG	PRPL	CD	PFAF	PMP
+0	1	1	5	1	5
+
+huwag	na	nating	sayangin	ang	panahon	.
+RF	CCP	PRPL	INOF	CD	CP	PMP
+4	1	4	0	6	4	6
+
+maaaring	maganap	ang	pag-aalsa	mamayang	gabi	.
+RT	INOF	CD	CP	RW	CP	PMP
+2	0	4	2	2	5	6
+
+hindi	na	mapigil	ang	pagsalakay	.
+RF	CCP	INOF	CD	CP	PMP
+3	1	0	5	3	3
+
+iligtas	ninyo	ang	inyong	sarili	alang-alang	sa	bayan	.
+INBF	PRPL	CD	POPL	CP	JCJD	CCT	CP	PMP
+0	1	5	5	1	1	6	7	8
+
+magtungo	kayo	sa	ibang	bayan	,	sa	maynila	o	sa	bahay	ng	ilang	opisyal	o	kahit	saan	.
+INAF	PRPL	CCT	JCJD	CP	PMC	CCT	NNP	CCT	CCT	CP	CCB	QISG	CP	CCT	CCT	QISG	PMP
+0	1	1	5	3	7	1	7	8	9	10	11	14	12	11	17	15	17
+
+sasabihin	nilang	taksil	kayo	at	duwag	ng	mga	nagsabwatan	.
+COOF	PRPL	JCJD	PRPL	CCA	JCJD	CCB	CDPL	PFAF	PMP
+0	1	1	3	1	5	6	9	7	9
+
+sasabihin	din	nilang	inumangan	ninyo	sila	sa	bitag	para	sa	sarili	ninyong	kaligtasan	.
+COOF	RI	PRPL	PFOF	PRPL	PRPL	CCT	CP	RBB	RBB	CP	PRPL	CP	PMP
+0	1	1	3	4	4	4	7	8	9	10	13	11	13
+
+sunugin	ninyo	ang	lahat	ng	mga	papeles	na	makapagpapahamak	sa	inyo	.
+INOF	PRPL	CD	PRI	CCB	CDPL	CP	CCP	COAF	CCT	POPL	PMP
+0	1	7	7	4	7	1	7	8	9	10	11
+
+lumayo	kayo	at	maghintay	sa	susunod	na	mangyayari	.
+INAF	PRPL	CCA	INAF	CCT	CP	CCP	COAF	PMP
+0	1	1	3	4	8	6	5	8
+
+mapapadali	lalo	ang	aking	kamatayan	.
+COOF	JCCM	CD	POSG	CP	PMP
+0	1	5	5	1	5
+
+ipagtanggol	na	lamang	ninyo	ang	inyong	sarili	.
+INBF	CCP	RI	PRPL	CD	POPL	CP	PMP
+0	1	1	1	7	7	1	7
+
+paghandaan	ninyo	ang	maaaring	ibintang	sa	inyo	.
+CP	PRPL	CD	RT	INOF	CCT	POPL	PMP
+0	3	5	5	1	7	5	7
+
+kunin	mo	ang	sulat	ng	aking	ama	at	ang	iba	pang	makapagpapahamak	sa	akin	.
+INOF	PRSG	CD	CP	CCB	POSG	CP	CCA	CD	PRI	RI	COAF	CCT	POSG	PMP
+0	3	4	1	4	7	4	1	12	12	12	8	12	13	14
+
+ang	nalilitong	binata	ay	nagmamadaling	binasa	ang	mga	liham	.
+CD	JCJD	CP	LM	RD	RD	CD	CDPL	CP	PMP
+3	3	4	0	6	4	9	9	6	9
+
+ang	iba	ay	pinunit	at	ang	iba	ay	itinago	.
+CD	PRI	LM	PFOF	CCA	CD	PRI	LM	PFOF	PMP
+2	3	0	3	4	8	8	5	8	9
+
+gayundin	ang	ginawa	ni	elias	na	hindi	gaanong	natataranta	bagama't	buong	panatag	na	gumagawa	.
+CCB	CD	PFOF	PDSG	NNP	CCP	RF	CM	IMAF	CCT	RD	RD	RD	RD	PMP
+2	3	0	5	3	5	9	9	6	9	12	14	12	10	14
+
+napahinto	ang	piloto	,	nakatitig	sa	isang	papeles	na	hawak	at	nagtanong	na	nanginginig	ang	tinig	.
+JCJD	CD	CP	PMC	JCJD	CCT	PRI	CP	CCP	JCJD	CCA	RD	RD	RD	CD	CP	PMP
+0	3	1	5	1	5	8	6	8	9	10	11	14	12	16	14	16
+
+kilala	ba	ng	inyong	pamilya	si	don	pedro	eibarramendia	?
+JCJD	RI	CCB	POPL	CP	PDSG	NNP	NNP	NNP	PMQ
+0	1	5	5	1	9	9	9	1	9
+
+pinaikli	namin	ang	apelyido	dahil	masyadong	mahaba	.
+PFOF	PRPL	CD	CP	CCR	JCJD	JCJD	PMP
+0	1	4	1	1	7	5	7
+
+idiniin	ni	elias	ang	kanyang	mga	kamay	sa	kanyang	noo	at	pinandilatan	si	ibarra	.
+PFOF	PDSG	NNP	CD	POSG	CDPL	CP	CCT	POSG	CP	CCA	COOF	PDSG	NNP	PMP
+0	3	1	7	7	7	1	1	10	8	1	11	14	12	14
+
+napaatras	ang	binata	pagkakita	sa	anyo	ng	mukha	ni	elias	.
+JCJD	CD	CP	CP	CCT	PRSG	CCB	CP	PDSG	NNP	PMP
+0	3	1	1	4	8	6	5	10	4	10
+
+iyan	ang	pangalang	aking	hinahanap	.
+DM	CD	CP	POSG	IMOF	PMP
+3	3	5	5	0	5
+
+itinuro	kayo	sa	akin	ng	diyos	.
+PFOF	PRPL	CCT	POSG	CCB	NNP	PMP
+0	1	1	3	6	1	6
+
+sasagutin	mo	ngayon	sa	akin	ang	lahat	ng	aming	kasawiang-palad	.
+COOF	PRSG	RW	CCT	POSG	CD	PRI	CCB	POPL	CP	PMP
+0	1	1	1	4	7	10	10	10	1	10
+
+mula	sa	sala	ay	maririnig	ang	kalansingan	ng	mga	pilak	na	kutsara't	tinidor	.
+RL	RL	CP	LM	COOF	CD	CP	CCB	CDPL	CP	CCP	CP	CP	PMP
+4	1	2	0	4	7	5	10	12	12	10	7	12	13
+
+nagkunwaring	busog	si	maria	clara	.
+RD	RD	PDSG	NNP	NNP	PMP
+0	1	5	5	1	5
+
+nakaupo	ang	dalaga	at	nakikipagbulungan	kay	sinang	.
+JCJD	CD	CP	CCA	JCJD	PDSG	NNP	PMP
+0	3	1	1	4	7	5	7
+
+hindi	naman	mapakali	si	padre	salvi	.
+RF	RI	INOF	PDSG	NNP	NNP	PMP
+3	1	0	6	6	3	6
+
+ilang	sandali'y	inihudyat	na	ng	orasan	ang	pagsapit	ng	ikawalo	ng	gabi	.
+QISG	RW	PFOF	CCP	CCB	CP	CD	CP	CCB	CDB	CCB	CP	PMP
+2	3	0	3	6	3	8	3	10	8	10	11	12
+
+ang	pagtunog	ng	kampana	sa	simbahan	ay	narinig	na	.
+CD	CP	CCB	CP	CCT	CP	LM	PFAF	RI	PMP
+2	7	4	2	2	5	0	7	8	9
+
+nagsitayo	ang	lahat	ng	nasa	sala	.
+PFAF	CD	PRI	CCB	RL	CP	PMP
+0	3	5	5	1	5	6
+
+namuno	sa	panalangin	si	padre	salvi	upang	matubos	ang	kaluluwa	ng	mga	namatay	.
+PFAF	CCT	CP	PDSG	NNP	NNP	CCB	INOF	CD	CP	CCB	CDPL	PFAF	PMP
+0	1	2	6	6	1	1	7	10	8	13	13	8	13
+
+mahina	ang	kanyang	tinig	na	waring	nanginginig	.
+JCJD	CD	POSG	CP	CCP	RM	PFAF	PMP
+4	4	4	0	4	7	5	7
+
+nakatitig	ang	kura	sa	nakayukong	si	maria	clara	.
+JCJD	CD	CP	CCT	JCJD	PDSG	NNP	NNP	PMP
+0	3	1	1	4	8	8	5	8
+
+bago	matapos	ang	pagdarasal	ay	dumating	si	crisostomo	ibarra	.
+RW	INOF	CD	CP	LM	INAF	PDSG	NNP	NNP	PMP
+2	4	4	5	0	5	9	9	6	9
+
+luksang-luksa	ang	binata	sa	kanyang	ayos	at	kaanyuan	.
+JCJD	CD	CP	CCT	POSG	CP	CCA	CP	PMP
+3	3	0	1	6	4	6	7	8
+
+sinikap	ni	ibarra	na	maging	panatag	lamang	.
+PFOF	PDSG	NNP	CCP	INAF	JCJD	RI	PMP
+0	3	1	1	1	5	6	7
+
+samantala	,	si	padre	salvi	ay	nagtago	sa	likod	ng	bilugang	haligi	ng	bahay	.
+CCT	PMC	PDSG	NNP	NNP	LM	PFAF	RL	RL	CCB	CP	CP	CCB	CP	PMP
+6	3	5	5	6	0	6	7	8	9	12	10	12	13	14
+
+ang	putok	ay	sinundan	ng	sigawan	at	mga	yabag	ng	nagtatakbuhang	mga	paa	.
+CD	CP	LM	PFOF	CCB	CP	CCA	CDPL	CP	CCB	IMAF	CDPL	CP	PMP
+2	3	0	3	6	4	6	9	7	9	10	13	11	13
+
+namutla	sina	maria	clara	,	tiya	isabel	,	sinang	at	andeng	.
+JCJD	PDPL	NNP	NNP	PMC	NNP	NNP	PMC	NNP	CCA	NNP	PMP
+0	4	4	1	6	7	1	9	1	9	10	11
+
+nanginig	sina	kapitan	tiyago	at	linares	.
+PFAF	PDPL	NNP	NNP	CCA	NNP	PMP
+0	4	4	1	4	5	6
+
+maya-maya'y	tumigil	na	ang	putukan	.
+RW	INAF	RI	CD	CP	PMP
+2	0	2	5	2	5
+
+bumaba	ka	riyan	,	padre	salvi	.
+INAF	PRSG	LO	PMC	NNP	NNP	PMP
+0	1	1	5	6	1	6
+
+baka	nais	mangumpisal	ng	alperes	!
+RM	AS	INOF	CCB	CP	PME
+3	3	0	5	3	5
+
+dumungaw	mula	sa	pinagtataguang	haligi	si	padre	salvi	.
+INAF	RL	RL	IMLF	CP	PDSG	NNP	NNP	PMP
+0	1	2	5	3	8	8	1	8
+
+pumasok	kayo	sa	silid	ninyo	!
+INAF	PRPL	CCT	CP	PRPL	PME
+0	1	1	3	4	5
+
+pinagsabihan	ni	tiya	isabel	si	ibarra	nang	makita	niya	ang	binata	na	bumaba	kasunod	ni	padre	salvi	.
+INRF	PDSG	NNP	NNP	PDSG	NNP	RW	INOF	PRSG	CD	CP	CCP	INAF	CP	PDSG	NNP	NNP	PMP
+0	4	4	1	6	1	1	7	8	11	8	8	12	13	17	17	14	17
+
+nandilat	ang	mga	mata	ng	babae	sa	pagtawag	kay	ibarra	.
+PFAF	CD	CDPL	CP	CCB	CP	CCT	CP	PDSG	NNP	PMP
+0	4	4	1	4	5	1	7	10	8	10
+
+sa	kabila	ng	magandang	pagsikat	ng	buwan	sa	kalangitan	ay	waring	may	mabigat	na	pasan	si	ibarra	.
+CCT	CCT	CCB	JCJD	CP	CCB	CP	CCT	CP	LM	RM	VH	JCJD	CCP	CP	PDSG	NNP	PMP
+10	1	5	5	2	5	6	5	8	0	12	10	15	13	12	17	12	17
+
+namimigat	ang	kanyang	mga	paa	habang	naglalakad	.
+IMOF	CD	POSG	CDPL	CP	RW	IMAF	PMP
+0	5	5	5	1	1	6	7
+
+napadaan	siya	sa	kwartel	at	natanaw	niyang	hawak	ng	mga	guardia	civil	ang	kanilang	mga	baril	.
+JCJD	PRSG	CCT	CP	CCA	PFAF	PRSG	JCJD	CCB	CDPL	CP	CP	CD	POPL	CDPL	CP	PMP
+0	1	1	3	1	5	6	6	11	11	8	11	16	16	16	8	16
+
+dahil	sa	lakas	ng	mga	boses	nito	ay	hindi	napansin	ang	pagdaan	ni	ibarra	.
+RP	RP	CP	CCB	CDPL	CP	DM	LM	RF	PFAF	CD	CP	PDSG	NNP	PMP
+8	1	2	3	6	4	6	0	10	8	12	10	14	10	14
+
+ginimbal	si	ibarra	ng	tinig	ng	isang	nagmamakaawa	.
+PFOF	PDSG	NNP	CCB	CP	CCB	PRI	IMAF	PMP
+0	3	1	5	1	5	8	6	8
+
+nakita	niya	ang	dinadagukan	,	pinapalo	ng	matigas	na	bagay	at	hinihila	sa	sementadong	bilangguan	.
+PFAF	PRSG	CD	IMOF	PMC	IMOF	CCB	JCJD	CCP	CP	CCA	IMOF	CCT	JCJD	CP	PMP
+0	1	4	1	6	1	10	10	8	6	6	11	15	15	12	15
+
+kasunod	nito	ay	ang	malakas	na	sigaw	ng	mga	may	katungkulan	at	kapangyarihan	.
+CP	DM	LM	CD	JCJD	CCP	CP	CCB	CDPL	VH	CP	CCA	CP	PMP
+3	3	0	7	7	5	3	7	10	8	10	11	12	13
+
+dalhin	iyan	sa	kulungan	at	posasan	!
+CP	DM	CCT	CP	CCA	INOF	PME
+0	1	1	3	1	5	6
+
+barilin	ang	sinumang	lumaban	!
+INOF	CD	PRI	INAF	PME
+0	4	4	1	4
+
+binilisan	ni	ibarra	ang	paghakbang	hanggang	makarating	siya	sa	kanilang	tahanan	.
+PFOF	PDSG	NNP	CD	CP	RW	INAF	PRSG	CCT	POPL	CP	PMP
+0	3	1	5	1	1	6	7	8	11	9	11
+
+naabutan	niyang	naghihintay	sa	kanya	ang	mga	katulong	.
+PFOF	PRSG	IMAF	CCT	POSG	CD	CDPL	CP	PMP
+0	3	1	3	4	8	8	3	8
+
+ihanda	ninyo	ang	pinakamabilis	kong	kabayo	.
+INOF	PRPL	CD	JCCS	PRSG	CP	PMP
+0	1	6	6	4	1	6
+
+pumasok	si	ibarra	sa	kanyang	silid	.
+INAF	PDSG	NNP	CCT	POSG	CP	PMP
+0	3	1	1	6	4	6
+
+ang	nakasusing	bakal	na	taguan	ay	binuksan	niya	at	kinuha	ang	lahat	ng	salapi	at	alahas	.
+CD	JCJD	CP	CCP	CP	LM	PFOF	PRSG	CCA	PFOF	CD	PRI	CCB	CP	CCA	CP	PMP
+3	3	6	3	4	0	6	7	7	9	14	14	12	10	14	15	16
+
+isinilid	niya	ang	mga	iyon	sa	isang	sako	.
+PFOF	PRSG	CD	CDPL	DM	CCT	PRI	CP	PMP
+0	1	5	5	1	1	8	6	8
+
+kinuha	niya	ang	nakakuwadrong	larawan	ni	maria	clara	.
+PFOF	PRSG	CD	JCJD	CP	PDSG	NNP	NNP	PMP
+0	1	5	5	1	8	8	1	8
+
+nagdala	rin	siya	ng	baril	at	panaksak	.
+PFAF	RI	PRSG	CCB	CP	CCA	CP	PMP
+0	1	1	5	1	1	6	7
+
+maghahalungkat	pa	sana	siya	ng	iba	pang	madadala	nang	bigla	siyang	mapaurong	sa	sunud-sunod	na	katok	sa	pintuan	.
+COAF	RI	INAF	PRSG	CCB	PRI	RI	COOF	RD	RD	PRSG	RD	CCT	JCJD	CCP	CP	CCT	CP	PMP
+0	1	1	1	6	8	6	1	1	12	12	9	12	16	14	13	16	17	18
+
+kung	hindi	ay	wawasakin	namin	ito	ngayon	din	!
+RK	RF	LM	COOF	PRPL	DM	RW	RI	PME
+3	1	0	3	4	4	4	7	8
+
+biglang	napatingin	si	ibarra	sa	bintana	.
+RD	RD	PDSG	NNP	CCT	CP	PMP
+2	0	4	2	2	5	6
+
+agad	niyang	ikinasa	ang	kanyang	baril	ngunit	nagdalawang-isip	siya	kaya't	ito'y	ipinatong	niya	sa	mesa	.
+RW	PRSG	IMOF	CD	POSG	CP	CCT	PFAF	PRSG	CCR	DM	PFOF	PRSG	CCT	CP	PMP
+3	3	0	6	6	3	3	7	8	8	12	10	12	12	14	15
+
+kinuha	niya	ang	kanyang	sumbrero	at	binuksan	ang	pinto	.
+PFOF	PRSG	CD	POSG	CP	CCA	PFOF	CD	CP	PMP
+0	1	5	5	1	1	6	9	7	9
+
+sumama	si	ibarra	sa	pag-aakalang	baka	magsiyasat	pa	sa	kabahayan	ang	mga	guardia	civil	.
+INAF	PDSG	NNP	CCT	CP	RM	INAF	RI	CCT	CP	CD	CDPL	CP	CP	PMP
+0	3	1	1	4	5	6	7	7	7	13	13	7	13	14
+
+asahan	ninyong	sasama	ako	sa	inyo	.
+INOF	PRPL	COAF	PRSG	CCT	POPL	PMP
+0	1	1	3	3	5	6
+
+kung	makatitiyak	kaming	hindi	naman	kayo	tatakas	ay	hindi	na	namin	kayo	poposasan	.
+RK	COAF	PRPL	RF	PRPL	PRPL	COAF	LM	RF	RI	PRPL	PRPL	COOF	PMP
+2	8	2	7	6	7	2	0	13	9	13	13	8	13
+
+si	elias	naman	,	mula	nang	lisanin	ang	bahay	ni	ibarra	ay	tumakbo	patungong	gubat	.
+PDSG	NNP	RI	PMC	RL	RW	INOF	CD	CP	PDSG	NNP	LM	INAF	RL	CP	PMP
+2	7	2	5	12	5	6	9	7	11	9	0	12	13	14	15
+
+waring	nagugulat	siya	tuwing	nasisinagan	ng	liwanag	ng	buwan	.
+RM	IMAF	PRSG	RW	IMOF	CCB	CP	CCB	CP	PMP
+2	0	2	2	4	7	5	7	8	9
+
+nangangamba	siyang	waring	may	sumusunod	na	anino	sa	kanya	.
+PFAF	PRSG	RM	VH	IMAF	CCP	CP	CCT	POSG	PMP
+0	1	1	3	4	5	6	5	8	9
+
+nanumbalik	sa	kanyang	gunita	ang	nakaraan	.
+PFAF	CCT	POSG	CP	CD	CP	PMP
+0	1	4	2	6	1	6
+
+mabilis	ang	kanyang	pagtakbo	.
+JCJD	CD	POSG	CP	PMP
+4	4	4	0	4
+
+kinikilabutan	siya	sa	tinatakbuhang	madawag	na	daanan	na	animo'y	naroroon	ang	bali-baling	kalansay	ng	kanyang	mga	ninuno	.
+IMOF	PRSG	CCT	IMOF	JCJD	CCP	CP	CCP	RM	RL	CD	JCJD	CP	CCB	POSG	CDPL	CP	PMP
+0	1	1	7	7	5	3	7	10	8	13	13	10	13	17	17	14	17
+
+naaaninag	din	niya	ang	kapatid	na	dalagang	may	tarak	na	punyal	sa	dibdib	.
+IMAF	RI	PRSG	CD	CP	CCP	CP	VH	CP	CCP	CP	CCT	CP	PMP
+0	1	1	5	1	5	6	7	11	9	8	8	12	13
+
+tila	naririnig	niya	ang	panunumbat	.
+RM	IMAF	PRSG	CD	CP	PMP
+2	0	2	5	2	5
+
+lumusong	si	elias	sa	tubig	at	sinundan-sundan	ang	mga	nanunumbat	na	mga	tinig	.
+INAF	PDSG	NNP	CCT	CP	CCA	INAF	CD	CDPL	IMAF	CCP	CDPL	CP	PMP
+0	3	1	1	4	1	6	13	10	13	10	13	7	13
+
+napalingon	siyang	bigla	nang	muling	marinig	ang	malalakas	na	putok	na	sa	palagay	niya'y	mula	sa	bayan	.
+RD	PRSG	RD	RW	RW	INOF	CD	JCJD	CCP	CP	CCP	CCT	CP	PRSG	RL	RL	CP	PMP
+0	1	1	1	6	4	10	10	8	6	10	11	12	13	13	15	16	17
+
+tinahak	niyang	muli	ang	daanan	.
+PFOF	PRSG	RW	CD	CP	PMP
+0	1	1	5	1	5
+
+nakahinga	lamang	siya	ng	maluwag	nang	makalabas	na	siya	sa	kagubatan	.
+JCJD	RI	PRSG	CCB	JCJD	RD	RD	RD	PRSG	CCT	CP	PMP
+0	1	1	5	1	1	6	7	7	7	10	11
+
+umiiwas	siyang	masinagan	ng	liwanag	ng	buwan	ang	kanyang	mukha	.
+IMAF	PRSG	INOF	CCB	CP	CCB	CP	CD	POSG	CP	PMP
+0	1	1	5	3	5	6	10	10	3	10
+
+sa	kabila	ng	kapaguran	,	nasisiyahan	pa	rin	siyang	matanawan	ang	bubong	ng	bahay	nina	ibarra	.
+CCT	CCT	CCB	CP	PMC	IMOF	RI	RI	PRSG	INOF	CD	CP	CCB	CP	PDPL	NNP	PMP
+6	1	2	3	6	0	6	6	6	6	12	10	12	13	16	14	16
+
+napansin	niya	sa	sahig	ang	nakakalat	na	mga	dokumento	,	aklat	,	salapi	at	alahas	.
+PFAF	PRSG	CCT	CP	CD	JCJD	CCP	CDPL	CP	PMC	CP	PMC	CP	CCA	CP	PMP
+0	1	1	3	6	9	6	9	1	11	9	13	11	13	14	15
+
+naroon	din	ang	isang	punyal	at	dalawang	baril	na	nasa	tabi	ng	ilawan	.
+LO	RI	CD	PRI	CP	CCA	JN	CP	CCP	RL	RL	CCB	CP	PMP
+0	1	5	5	1	5	8	6	5	9	10	11	12	13
+
+ilang	sandali'y	nagkagulo	ang	mga	tao	.
+QISG	RW	PFAF	CD	CDPL	CP	PMP
+2	3	0	6	6	3	6
+
+biglang	tumalon	si	elias	sa	bintana	.
+RD	RD	PDSG	NNP	CCT	CP	PMP
+2	0	4	2	2	5	6
+
+nang	oras	na	iyon	ay	nagliliyab	na	ang	silid	ni	ibarra	pati	na	ang	laboratoryo	ng	binata	.
+RW	CP	CCP	DM	LM	IMAF	CCP	CD	CP	PDSG	NNP	CCA	CCP	CD	CP	CCB	CP	PMP
+5	1	2	2	0	5	6	9	6	9	10	9	12	15	12	15	16	17
+
+dumating	ang	mga	guardia	civil	.
+INAF	CD	CDPL	CP	CP	PMP
+0	4	4	1	4	5
+
+kung	may	pahintulot	kayo	,	maaari	kayong	makapanhik	.
+RK	VH	CP	PRPL	PMC	RT	PRPL	INAF	PMP
+6	1	2	3	6	8	8	0	8
+
+animo'y	mga	hari	ang	dumating	na	mga	guardia	civil	.
+RM	CDPL	CP	CD	INAF	CCP	CDPL	CP	CP	PMP
+3	3	8	5	0	5	8	5	8	9
+
+hindi	makaimik	ang	mga	katulong	sapagkat	nakakasa	ang	mga	baril	ng	mga	sundalo	.
+RF	JCJD	CD	CDPL	CP	CCR	JCJD	CD	CDPL	CP	CCB	CDPL	CP	PMP
+2	0	5	5	2	2	6	10	10	7	10	13	11	13
+
+nababakas	pa	rin	ang	takot	sa	kabayanan	.
+IMAF	RI	RI	CD	CP	CCT	CP	PMP
+0	1	1	5	1	1	6	7
+
+wala	ni	isang	tao	sa	lansangang	kinatatayuan	ng	kwartel	at	ng	munisipyo	.
+RF	RI	PRI	CP	CCT	CP	IMLF	CCB	CP	CCA	CCB	CP	PMP
+0	3	4	1	1	5	6	9	7	7	10	11	12
+
+tanging	isang	bintanang	kahoy	ang	kinariringgan	ng	ingay	na	binuksan	ng	isang	batang	lalaking	palinga-linga	.
+JCJD	PRI	CP	CP	CD	JCJD	CCB	CP	CCP	PFOF	CCB	JN	JCJD	CP	JCJD	PMP
+6	3	1	3	6	0	8	6	6	9	13	13	10	13	13	15
+
+isang	palo	ang	lumagapak	sa	puwit	ng	bata	kaya't	biglang	naisara	ang	bintana	.
+PRI	CP	CD	INAF	CCT	CP	CCB	CP	CCR	RD	RD	CD	CP	PMP
+2	4	4	0	4	5	6	7	4	11	9	13	11	13
+
+sinundan	iyon	ng	pagbubukas	at	pagsasara	ng	iba	pang	bintana	.
+PFOF	DM	CCB	CP	CCA	CP	CCB	PRI	RI	CP	PMP
+0	1	4	1	4	5	6	10	8	7	10
+
+maya-maya'y	sumungaw	ang	ulo	ng	matandang	babaing	kulubot	na't	bungi	.
+RW	INAF	CD	CP	CCB	JCJD	CP	JCJD	CCA	JCJD	PMP
+2	0	4	2	4	7	5	7	8	9	10
+
+si	hermana	pute	ang	babaing	iyon	na	maingay	nang	nagsesermon	si	padre	damaso	.
+PDSG	NNP	NNP	CD	CP	DM	CCP	RD	RD	RD	PDSG	NNP	NNP	PMP
+2	3	5	5	0	5	5	7	8	9	13	13	10	13
+
+namalagi	ang	babae	sa	bintana	.
+PFAF	CD	CP	CCT	CP	PMP
+0	3	1	5	1	5
+
+nagmumog	at	malakas	na	ibinuga	ang	nasa	bibig	bago	nagkrus	.
+PFAF	CCA	JCJD	CCP	PFOF	CD	RL	CP	RW	PFAF	PMP
+5	1	2	3	0	7	5	7	5	9	10
+
+ang	dalawang	hermana	ay	nagngitian	at	nagsenyasan	at	saka	nangurus	.
+CD	JN	CP	LM	PFAF	CCA	PFAF	CCA	CCA	PFAF	PMP
+3	3	4	0	4	5	6	7	8	9	10
+
+grabe	ang	putukang	iyon	!
+RBJ	CD	CP	DM	PME
+3	3	0	3	4
+
+ayon	sa	balita'y	pangkat	daw	iyon	ni	tandang	pablo	.
+RR	RR	CP	CP	RI	DM	PDSG	NNP	NNP	PMP
+4	3	1	0	4	4	4	9	7	9
+
+ang	sabi'y	mga	pulis-munisipyo	na	nakipagbarilan	sa	mga	guardia	civil	.
+CD	CP	CDPL	CP	CCP	JCJD	CCT	CDPL	CP	CP	PMP
+2	0	4	2	4	5	6	9	7	9	10
+
+nakulong	nga	raw	si	don	filipo	.
+JCJD	RI	RI	PDSG	NNP	NNP	PMP
+0	1	1	6	6	1	6
+
+may	labing-apat	daw	ang	namatay	.
+VH	CDB	RI	CD	PFAF	PMP
+0	1	2	5	1	5
+
+bumukas	pa	ang	ilang	mga	bintana	at	dumungaw	ang	mga	magkakapitbahay	na	nagbatian	at	namuna	.
+INAF	RI	CD	QISG	CDPL	CP	CCA	INAF	CD	CDPL	CP	CCP	PFAF	CCA	PFAF	PMP
+0	1	6	6	6	1	1	7	11	11	8	11	12	13	14	15
+
+dalawa	ang	nakita	ko	.
+CDB	CD	PFAF	PRSG	PMP
+3	3	0	3	4
+
+nakatitiyak	akong	tungkol	ito	sa	pag-aalsa	sa	kwartel	.
+JCJD	PRSG	RR	DM	CCT	CP	CCT	CP	PMP
+0	1	1	3	3	5	6	7	8
+
+nag-away	ang	kura	at	ang	opisyal	ng	mga	guardia	civil	.
+PFAF	CD	CP	CCA	CD	CP	CCB	CDPL	CP	CP	PMP
+0	3	1	3	6	4	6	9	7	9	10
+
+biglang	isinara	ng	lalaki	ang	bintana	.
+RD	RD	CCB	CP	CD	CP	PMP
+2	0	4	2	6	2	6
+
+kaya	pala	wala	ni	isa	mang	nakikita	sa	kanila	.
+RI	RI	RF	RI	PRI	RI	JCJD	CCT	POPL	PMP
+3	1	0	3	4	5	6	7	8	9
+
+marahil	patay	na	silang	lahat	.
+RM	JCJD	CCP	PRPL	PRI	PMP
+2	0	2	5	2	5
+
+namatay	ang	lahat	ng	intsik	gayong	pinadadalhan	nila	tayo	ng	mga	aginaldo	bago	magpasko	!
+PFAF	CD	PRI	CCB	NNP	CM	PFOF	PRPL	PRPL	CCB	CDPL	CP	RW	INAF	PME
+0	3	1	3	4	1	6	7	7	12	12	7	7	13	14
+
+muling	nagkabuhay	ang	lansangan	.
+RW	PFAF	CD	CP	PMP
+2	0	4	2	4
+
+makikitang	unang	lumaboy	ang	mga	alagang	hayop	na	tulad	ng	aso	,	manok	,	baboy	at	kalapati	.
+INOF	CDB	INAF	CD	CDPL	CP	CP	CCP	JCCC	JCCC	CP	PMC	CP	PMC	CP	CCA	CP	PMP
+3	3	0	7	7	7	3	7	8	9	10	13	11	15	13	15	16	17
+
+sinundan	iyon	ng	mga	maruruming	batang	lalaki	na	magkakahawak	at	dahan-dahang	bumabagtas	sa	may	kwartel	.
+PFOF	DM	CCB	CDPL	JCJD	JCJD	CP	CCP	IMAF	CCA	RD	RD	CCT	VH	CP	PMP
+0	1	6	6	6	1	6	7	8	9	10	11	12	13	14	15
+
+naglabasan	na	rin	ang	mga	matatandang	babaing	nakapandong	na	may	hawak	na	rosaryo	.
+PFAF	CCP	RI	CD	CDPL	JCJD	CP	JCJD	CCP	VH	JCJD	CCP	CP	PMP
+0	1	1	7	7	7	1	7	8	8	10	11	12	13
+
+ang	mga	lalaki	nama'y	nagsilabas	na	rin	nang	inakala	nilang	wala	nang	panganib	na	mabaril	sa	lansangan	.
+CD	CDPL	CP	RI	PFAF	CCP	RI	RW	PFOF	PRPL	RF	RW	CP	CCP	INOF	CCT	CP	PMP
+3	3	5	3	0	5	5	5	8	9	10	11	12	13	14	15	16	17
+
+anyong	nagwawalang-bahala	sa	mga	nangyari	,	nagpalakad-lakad	sila	sa	harapan	ng	kanilang	bahay	habang	hinihimas	ang	mga	sasabungin	nila	.
+RD	RD	CCT	CDPL	INOF	PMC	JCJD	PRPL	RL	RL	CCB	POPL	CP	RW	IMOF	CD	CDPL	COOF	PRPL	PMP
+2	7	2	5	6	7	0	7	7	9	10	13	11	7	14	18	18	15	18	19
+
+maraming	kumalat	na	balita	tungkol	sa	naganap	noong	nakaraang	gabi	.
+JN	INAF	CCP	CP	RR	RR	PFAF	RW	JCJD	CP	PMP
+4	4	2	0	4	5	6	7	10	8	10
+
+sinabing	itinakas	naman	ni	ibarra	si	maria	clara	sa	tulong	ng	kanyang	mga	utusan	.
+PFOF	PFOF	RI	PDSG	NNP	PDSG	NNP	NNP	CCT	CP	CCB	POSG	CDPL	CP	PMP
+2	0	2	5	2	8	8	2	2	9	14	14	14	10	14
+
+samantala	,	ipinagtanggol	naman	ni	kapitan	tiyago	si	maria	clara	sa	tulong	ng	mga	guardia	civil	.
+CCT	PMC	PFBF	RI	PDSG	NNP	NNP	PDSG	NNP	NNP	CCT	CP	CCB	CDPL	CP	CP	PMP
+3	3	0	3	7	7	3	10	10	3	3	11	16	16	16	12	16
+
+dumami	rin	ang	bilang	ng	mga	namatay	na	umabot	hanggang	tatlumpu	.
+INAF	RI	CD	CP	CCB	CDPL	PFAF	CCP	INAF	RW	CDB	PMP
+0	1	4	1	4	7	5	4	8	9	10	11
+
+si	kapitan	tiyago	ay	nasugatan	kaya't	nagtungo	sa	maynila	kasama	ang	kanyang	pamilya	.
+PDSG	NNP	NNP	LM	PFOF	CCR	RL	RL	NNP	CP	CD	POSG	CP	PMP
+3	3	4	0	4	5	6	7	10	7	13	13	10	13
+
+naging	sikat	na	panoorin	ang	dalawang	pulis-munisipyo	na	may	dalang	kamilyang	kinalalagyan	ng	tila	bangkay	ng	isang	lalaki	.
+INOF	JCJD	CCP	INOF	CD	JN	CP	CCP	VH	JCJD	CP	IMOF	CCB	RM	CP	CCB	PRI	CP	PMP
+0	4	2	1	7	7	4	7	8	9	10	11	15	15	12	15	18	16	18
+
+tinangkang	kilalanin	ang	bangkay	.
+RD	RD	CD	CP	PMP
+2	0	4	2	4
+
+nang	makalayo	na'y	dumami	na	ang	nag-iisang	bangkay	sa	kamilya	.
+RW	INAF	RI	INAF	CCP	CD	PFAF	CP	CCT	CP	PMP
+4	1	2	0	4	8	8	4	4	9	10
+
+naghimala	ang	bilang	niyon	at	lalo	pa	itong	lumubha	gaya	ng	himala	ng	dumaming	mga	tinapay	at	isda	.
+PFAF	CD	CP	DM	CCA	JCCM	RI	DM	INAF	JCCC	JCCC	CP	CCB	INAF	CDPL	CP	CCA	CP	PMP
+0	3	1	3	1	5	6	9	7	9	10	11	16	16	16	12	16	17	18
+
+ang	bilang	ng	patay	ay	naging	tatlumpu't-walo	.
+CD	CP	CCB	CP	LM	INOF	CDB	PMP
+2	5	2	3	0	5	6	7
+
+nang	mag-iikapito	na	ng	gabi	ay	dumami	ang	guardia	civil	na	buhat	sa	karatig-bayan	.
+RW	COAF	RI	CCB	CP	LM	INAF	CD	CP	CP	CCP	CCT	CCT	CP	PMP
+6	1	4	5	6	0	6	9	7	9	9	11	12	13	14
+
+nakita	kong	dinakip	sina	don	filipo	at	don	crisostomo	.
+PFAF	PRSG	PFOF	PDPL	NNP	NNP	CCA	NNP	NNP	PMP
+0	1	1	6	6	3	6	9	7	9
+
+nakausap	ko	roon	ang	isa	sa	mga	pulis	na	bantay	.
+JCJD	PRSG	LO	CD	PRI	CCT	CDPL	CP	CCP	CP	PMP
+0	1	1	5	8	8	8	1	8	9	10
+
+ang	ama	yata	ni	bruno	na	halos	pinatay	sa	palo	ang	nagsumbong	sa	lahat	ng	mga	nangyari	kagabi	.
+CD	CP	RM	PDSG	NNP	CCP	RD	RD	CCT	CP	CD	PFAF	CCT	PRI	CCB	CDPL	INOF	RW	PMP
+2	12	2	2	4	2	6	7	8	9	12	0	12	13	14	17	15	17	18
+
+tulad	ng	pagkakaalam	ninyo	ay	ipakakasal	ni	kapitan	tiyago	si	maria	clara	sa	isang	binatang	kastila	.
+JCCC	JCCC	CP	PRPL	LM	COOF	PDSG	NNP	NNP	PDSG	NNP	NNP	CCT	JN	JCJD	NNP	PMP
+5	1	2	3	0	5	9	9	6	12	12	6	6	15	13	15	16
+
+hindi	matanggap	ni	ibarra	iyon	kaya't	tinangka	niyang	patayin	ang	lahat	ng	kastila	pati	na	ang	kura	.
+RF	INOF	PDSG	NNP	DM	CCR	PFOF	PRSG	INOF	CD	PRI	CCB	NNP	CCA	CCP	CD	CP	PMP
+2	0	4	2	2	2	6	7	7	11	9	11	12	13	14	17	14	17
+
+nilusob	nila	kagabi	ang	kwartel	at	ang	kumbento	.
+INOF	PRPL	RW	CD	CP	CCA	CD	CP	PMP
+0	3	1	5	1	5	8	6	8
+
+mayroon	din	daw	mga	nakatakas	at	sinunog	ng	mga	guardia	civil	ang	bahay	ni	don	crisostomo	.
+VH	RI	RI	CDPL	JCJD	CCA	PFOF	CCB	CDPL	CP	CP	CD	CP	PDSG	NNP	NNP	PMP
+0	1	2	5	1	5	6	10	10	7	10	13	7	13	16	14	16
+
+kung	hindi	napaaga	ang	pagkakadakip	sa	binata	,	marahil	ay	sinunog	din	siya	.
+RK	RF	JCJD	CD	CP	CCT	CP	PMC	RM	LM	PFOF	RI	PRSG	PMP
+5	3	1	5	0	5	6	9	9	5	9	10	11	12
+
+sinunog	ang	bahay	ni	don	crisostomo	?
+PFOF	CD	CP	PDSG	NNP	NNP	PMQ
+0	3	1	6	6	1	6
+
+hinuli	pati	ang	lahat	ng	kanyang	utusan	.
+PFOF	CCA	CD	PRI	CCB	POSG	CP	PMP
+0	1	4	1	4	7	5	7
+
+paano	,	nakalimotan	niyang	ipagpamisa	ang	kaluluwa	ng	kanyang	amang	higit	ang	pangangailangan	kaysa	sa	iba	.
+QISG	PMC	JCJD	PRSG	INBF	CD	CP	CCB	POSG	CP	JCCC	CD	CP	JCCC	JCCC	PRI	PMP
+3	3	0	3	3	7	5	7	10	8	10	13	11	13	14	15	16
+
+sabi	ng	kura'y	masama	ang	maawa	sa	mga	kaaway	ng	diyos	.
+INAF	CCB	CP	JCJD	CD	INOF	CCT	CDPL	CP	CCB	NNP	PMP
+0	3	1	6	6	1	1	9	7	9	10	11
+
+masyado	mo	namang	ipinagtatanggol	ang	taong	kitang-kita	mo	nang	pinarurusahan	ng	diyos	.
+JCJD	PRSG	RI	IMOF	CD	CP	RD	PRSG	RD	RD	CCB	NNP	PMP
+4	4	1	0	6	4	6	7	7	9	10	11	12
+
+kung	sinaktan	niya	si	padre	damaso	ay	hindi	malayong	patayin	naman	niya	si	padre	salvi	.
+RK	PFOF	PRSG	PDSG	NNP	NNP	LM	RF	RD	RD	RI	PRSG	PDSG	NNP	NNP	PMP
+7	1	2	6	6	2	0	9	10	7	10	10	15	15	10	15
+
+biglang	may	dumating	na	isang	babaeng	katulong	.
+RD	VH	RD	CCP	PRI	CP	CP	PMP
+2	3	0	3	6	7	3	7
+
+tumakbo	itong	papasok	at	takot	na	takot	.
+RD	DM	RD	CCA	RD	RD	RD	PMP
+0	1	1	3	7	5	4	7
+
+nangurus	ang	dalawang	babae	ngunit	walang	sinumang	nakakilos	.
+PFAF	CD	JN	CP	CCT	RF	PRI	JCJD	PMP
+0	4	4	1	1	5	8	6	8
+
+itinuro	ng	nahihintakutang	babae	ang	lalaking	nagbigti	.
+PFOF	CCB	JCJD	CP	CD	CP	PFAF	PMP
+0	4	4	1	6	1	6	7
+
+huwag	nating	galawin	hangga't	hindi	pa	dumarating	ang	mga	pulis	.
+RF	PRPL	INOF	RW	RF	RI	IMAF	CD	CDPL	CP	PMP
+3	3	0	3	7	5	4	10	10	7	10
+
+naglapitan	ang	mga	babae	.
+PFAF	CD	CDPL	CP	PMP
+0	4	4	1	4
+
+naninirahan	iyan	sa	kabilang	bakuran	.
+PFOF	DM	CCT	CCT	CP	PMP
+0	1	1	5	3	5
+
+isinusumpa	ang	mga	nagpapakamatay	.
+IMOF	CD	CDPL	IMAF	PMP
+0	4	4	1	4
+
+dumating	ang	ilan	pang	mga	taong	pumaligid	sa	bangkay	.
+INAF	CD	QISG	RI	CDPL	CP	INAF	CCT	CP	PMP
+0	6	6	3	6	1	6	7	8	9
+
+dumating	din	ang	isang	hepe	,	ang	kalihim-munisipal	at	dalawang	pulis	.
+INAF	RI	CD	PRI	CP	PMC	CD	CP	CCA	JN	CP	PMP
+0	1	5	5	1	7	8	1	8	11	9	11
+
+ibinaba	ang	bangkay	at	inilagay	sa	isang	kamilya	.
+PFOF	CD	CP	CCA	PFOF	CCT	PRI	CP	PMP
+0	3	1	1	4	5	8	6	8
+
+tinanong	ng	kalihim-munisipal	ang	babaeng	katulong	.
+PFOF	CCB	CP	CD	CP	CP	PMP
+0	3	1	5	1	5	6
+
+nililito	ito	sa	mga	tanong	.
+IMOF	DM	CCT	CDPL	CP	PMP
+0	1	1	5	3	5
+
+tinitigan	iyon	nang	may	paghihinala	at	pagbabanta	.
+IMOF	DM	CCB	VH	CP	CCA	CP	PMP
+0	1	1	3	4	5	6	7
+
+ipinaako	sa	katulong	ang	mga	pahayag	na	hindi	nito	sinabi	.
+IMOF	CCT	CP	CD	CDPL	CP	CCP	RF	DM	PFOF	PMP
+0	1	2	6	6	1	6	10	10	7	10
+
+inakala	ng	katulong	na	ikukulong	din	siya	kaya't	umiyak	at	sinabing	ang	saksi	ay	si	teo	.
+PFOF	CCB	CP	CCP	COOF	RI	PRSG	CCR	INAF	CCA	PFOF	CD	CP	LM	PDSG	NNP	PMP
+0	3	1	1	4	5	5	5	8	9	10	13	14	11	16	14	16
+
+nagmamasid	noon	ang	isang	magbubukid	na	nakasumbrero	ng	malapad	na	balanggot	at	may	malaking	balat	sa	leeg	.
+IMAF	RW	CD	PRI	CP	CCP	JCJD	CCB	JCJD	CCP	CP	CCA	VH	JCJD	CP	CCT	CP	PMP
+0	1	5	5	1	5	6	7	11	11	8	7	12	15	13	13	16	17
+
+ang	bangkay	ay	maputlang-maputla	na	may	dalawang	kalmot	at	dalawang	galos	.
+CD	CP	LM	JCJD	CCP	VH	JN	CP	CCA	JN	CP	PMP
+2	3	0	3	4	5	8	6	8	11	9	11
+
+pinagmasdan	din	ng	magbubukid	ang	suot	niyang	kamiseta	at	pantaloon	.
+INRF	RI	CCB	CP	CD	CP	PRSG	CP	CCA	CP	PMP
+0	1	4	1	6	1	6	7	8	9	10
+
+may	mga	buto	naman	ng	damo	na	nakakapit	sa	leeg	ng	kamiseta	.
+VH	CDPL	CP	RI	CCB	CP	CCP	JCJD	CCT	CP	CCB	CP	PMP
+0	3	1	3	3	5	6	7	8	9	10	11	12
+
+tinanong	ang	magbubukid	ng	kalihim-munisipal	.
+PFOF	CD	CP	CCB	CP	PMP
+0	3	1	5	1	5
+
+tinitingnan	ko	kung	kilala	ko	siya	.
+IMOF	PRSG	RK	JCJD	PRSG	PRSG	PMP
+0	1	1	3	4	4	6
+
+lumakad	ito	at	lumayo	sa	lugar	na	pinangyarihan	niya	ng	masaklap	na	gawain	at	nagtungo	siya	sa	simbahan	.
+INAF	DM	CCA	INAF	CCT	CP	CCP	PFOF	PRSG	CCB	JCCC	CCP	CP	CCA	PFAF	PRSG	CCT	CP	PMP
+0	1	1	3	4	5	6	7	8	13	13	11	8	4	14	15	15	17	18
+
+ipinagtanong	niya	kung	nasaan	ang	sakristan	mayor	.
+PFOF	PRSG	RK	RL	CD	CP	CP	PMP
+0	1	1	3	6	4	6	7
+
+hihintayin	ko	na	lang	siyang	magising	.
+COOF	PRSG	CCP	RI	PRSG	INOF	PMP
+0	1	1	1	6	1	6
+
+tiningnan	ng	masama	ng	mga	katulong	sa	simbahan	ang	magbubukid	.
+PFOF	CCB	JCJD	CCB	CDPL	CP	CCT	CP	CD	CP	PMP
+0	3	1	6	6	1	1	7	10	1	10
+
+naupo	siya	katabi	ng	sakristang	mayor	na	noon	ay	natutulog	sa	isang	silyang	nasa	madilim	na	sulok	.
+JCJD	PRSG	CP	CCB	CP	CP	CCP	RW	LM	IMAF	CCT	PRI	CP	RL	JCJD	CCP	CP	PMP
+0	3	1	5	1	5	5	9	7	9	10	13	11	13	17	15	14	17
+
+nahulog	ang	baryang	hawak	niya	.
+PFAF	CD	CP	JCJD	PRSG	PMP
+0	3	1	3	3	5
+
+hinanap	niya	ang	mga	nahulog	sa	tulong	ng	ilaw	ng	kandilang	nasa	ilalim	ng	silyon	ng	sakristan	mayor	.
+PFOF	PRSG	CD	CDPL	PFAF	CCT	CP	CCB	CP	CCB	CP	RL	RL	CCB	CP	CCB	CP	CP	PMP
+0	1	5	5	1	1	6	9	7	9	10	11	12	13	14	15	16	17	18
+
+nagising	ang	sakristan	mayor	at	nagalit	sa	magbubukid	.
+PFAF	CD	CP	CP	CCA	PFAF	CCT	CP	PMP
+0	3	1	3	1	5	8	6	8
+
+lumabas	na	ang	magbubukid	sa	sakristiya	.
+INAF	CCP	CD	CP	CCT	CP	PMP
+0	1	4	1	1	5	6
+
+binabantaan	ng	dulo	ng	kanilang	riple	ang	pangahas	na	mga	batang	nagtatangkang	sumilip	sa	mga	bintana	.
+IMOF	CCB	CP	CCB	POPL	CP	CD	CP	CCP	CDPL	CP	RD	RD	CCT	CDPL	CP	PMP
+0	3	1	3	6	4	11	11	8	11	1	11	12	16	16	13	16
+
+naglaho	ang	saya	sa	bulwagan	ng	munisipyo	di	tulad	nang	pagpulungan	doon	ang	palatuntunanan	para	sa	pista	.
+PFAF	CD	CP	CCT	CP	CCB	CP	RF	JCCC	RW	CP	LO	CD	CP	RBB	RBB	CP	PMP
+0	3	1	1	1	5	6	9	1	9	10	11	14	11	11	15	16	17
+
+bihirang	mag-usap	ang	mga	guardia	civil	at	pulis-munisipyong	naroroon	.
+RD	RD	CD	CDPL	CP	CP	CCA	CP	RL	PMP
+2	0	5	5	2	5	2	7	8	9
+
+nag-uusap	man	sila'y	pabulong	pa	.
+IMAF	RI	PRPL	RD	RI	PMP
+0	1	1	1	4	5
+
+ang	kalihim-munisipal	,	dalawang	klerk	at	ilang	sundalo	ay	nagsusulat	sa	malaking	mesa	.
+CD	CP	PMC	JN	CP	CCA	QISG	CP	LM	IMAF	CCT	JCJD	CP	PMP
+2	9	4	5	2	5	8	6	0	9	10	13	11	13
+
+palakad-lakad	ang	puno	ng	guardia	civil	.
+JCJD	CD	CP	CCB	CP	CP	PMP
+0	3	1	3	4	5	6
+
+madalas	na	titigan	ng	nanlilisik	niyang	mga	mata	ang	pinto	.
+RD	RD	RD	CCB	JCJD	PRSG	CDPL	CP	CD	CP	PMP
+3	1	0	5	8	8	8	3	10	3	10
+
+samantala	ay	naghihikab	sa	isang	sulok	si	donya	consolacion	.
+CCT	LM	IMAF	CCT	PRI	CP	PDSG	NNP	NNP	PMP
+2	0	2	3	6	4	9	9	3	9
+
+lumitaw	ang	nangingitim	niyang	gilagid	at	sungking	mga	ngipin	.
+INAF	CD	JCJD	PRSG	CP	CCA	CP	CDPL	CP	PMP
+0	3	5	5	1	5	9	9	6	9
+
+nakatutok	sa	pintong	patungo	sa	kulungan	ang	kanyang	mga	matang	nagbabadya	ng	panganib	.
+JCJD	CCT	CP	RL	RL	CP	CD	POSG	CDPL	CP	IMAF	CCB	CP	PMP
+0	1	2	3	4	5	10	10	10	1	10	13	11	13
+
+namumuno	ang	pinto	sa	nakasulat	na	malalaswang	mga	salita	.
+IMAF	CD	CP	CCT	JCJD	CCP	JCJD	CDPL	CP	PMP
+0	3	1	1	4	5	9	9	5	9
+
+nababagot	siya	sa	nakaaabang	parusa	.
+IMAF	PRSG	CCT	JCJD	CP	PMP
+0	1	1	5	3	5
+
+walang	nakaupo	sa	silyang	nasa	ilalim	ng	larawan	ng	hari	.
+RF	JCJD	CCT	CP	RL	RL	CCB	CP	CCB	CP	PMP
+2	0	2	3	4	5	6	7	8	9	10
+
+nang	mag-aalas-nuwebe'y	dumating	ang	kura	,	maputla't	nakakunot	ang	noo	.
+RW	COAF	INAF	CD	CP	PMC	JCJD	JCJD	CD	CP	PMP
+3	1	0	5	3	7	5	7	10	8	10
+
+itinuturo	ng	alperes	ang	pintong	patungo	sa	kulungan	.
+IMOF	CCB	CP	CD	CP	RL	RL	CP	PMP
+0	3	1	6	6	1	6	7	8
+
+namatay	si	bruno	kaninang	hatinggabi	,	ngunit	nakatala	ang	kanyang	pahayag	.
+PFAF	PDSG	NNP	RW	RW	PMC	CCT	JCJD	CD	POSG	CP	PMP
+0	3	1	1	4	7	1	7	11	11	8	11
+
+binati	ng	kura	si	donya	consolacion	bago	naupo	sa	silyon	sa	ilalim	ng	nakasabit	na	larawan	ng	hari	.
+PFOF	CCB	CP	PDSG	NNP	NNP	RW	PFAF	CCT	CP	RL	RL	CCB	JCJD	CCP	CP	CCB	CP	PMP
+0	3	1	6	6	1	1	7	8	9	10	11	12	13	14	15	16	17	18
+
+tinugon	siya	niyon	ng	paghihikab	at	buntong-hininga	.
+PFOF	PRSG	DM	CCB	CP	CCA	CP	PMP
+0	1	1	5	1	5	6	7
+
+karaniwan	nang	ga-palad	lamang	ang	agwat	ng	mga	butas	sa	pangaw	na	pinagsusuutan	ng	mga	paa	ng	bilanggo	.
+JCCC	CCB	JCJD	RI	CD	CP	CCB	CDPL	CP	CCT	CP	CCP	IMLF	CCB	CDPL	CP	CCB	CP	PMP
+0	1	1	3	6	3	6	9	7	6	10	11	12	16	16	13	16	17	18
+
+binuksan	ng	bantay	ang	pinto	ng	bilangguan	at	kasunod	ang	apat	na	sundalo	.
+PFOF	CCB	CP	CD	CP	CCB	CP	CCA	JCJD	CD	CDB	CCP	CP	PMP
+0	3	1	5	1	5	6	7	8	13	13	11	9	13
+
+nakasusulasok	na	amoy	at	malamig	na	simoy	ang	nananaig	sa	napakadilim	na	bilangguan	.
+JCJD	CCP	CP	CCA	JCJD	CCP	CP	CD	IMAF	CCT	JCCS	CCP	CP	PMP
+3	1	9	3	7	5	4	9	0	9	13	13	10	13
+
+ilang	sigaw	at	panangis	ang	narinig	.
+QISG	CP	CCA	CP	CD	PFAF	PMP
+2	6	2	3	6	0	6
+
+may	mga	nakadapa	at	ang	iba	pa'y	nakatayong	paharap	sa	dingding	.
+VH	CDPL	JCJD	CCA	CD	PRI	RI	RD	RD	CCT	CP	PMP
+0	3	1	1	6	8	6	4	8	9	10	11
+
+maririnig	ang	pukpok	at	langitngit	ng	binubuksang	pangaw	kasabay	ng	mga	pagmumura	.
+COAF	CD	CP	CCA	CP	CCB	IMOF	CP	CP	CCB	CDPL	CP	PMP
+0	3	1	3	4	7	8	1	1	9	12	10	12
+
+nanghahaba	ang	leeg	ni	donya	consolacion	sa	pagkakatitig	sa	nakaawang	na	pinto	.
+IMAF	CD	CP	PDSG	NNP	NNP	CCT	CP	CCT	JCJD	CCP	CP	PMP
+0	3	1	3	6	4	1	7	8	12	10	9	12
+
+isang	lalaking	anyong	malungkot	ang	inilabas	ng	dalawang	sundalo	.
+PRI	CP	CP	JCJD	CD	PFOF	CCB	JN	CP	PMP
+2	6	4	2	6	0	9	9	6	9
+
+inililitaw	ng	gula-gulanit	niyang	damit	ang	maskuladong	pangangatawan	.
+IMOF	CCB	JCJD	PRSG	CP	CD	JCJD	CP	PMP
+0	5	5	5	1	8	8	1	8
+
+kasunod	ni	tarsilo	ang	isang	mareklamong	bilanggo	na	umiiyak	na	parang	bata	.
+CP	PDSG	NNP	CD	PRI	JCJD	CP	CCP	IMAF	CCP	CCT	CP	PMP
+0	3	1	7	7	7	1	7	8	9	9	11	12
+
+paika-ika	siya	at	puno	ng	dugo	ang	kanyang	pantaloon	.
+JCJD	PRSG	CCA	JCJD	CCB	CP	CD	POSG	CP	PMP
+0	1	2	3	4	5	9	9	4	9
+
+sila	lamang	dalawa	ang	nadakip	naming	nang	buhay	.
+PRPL	RI	CDB	CD	PFAF	PRPL	CCB	JCJD	PMP
+3	3	5	5	0	5	5	7	8
+
+pinatay	n'yo	sa	palo	ang	aming	ama	kaya't	ipinaghiganti	naming	siya	.
+PFOF	PRPL	CCT	CP	CD	POPL	CP	CCR	PFBF	PRPL	PRSG	PMP
+0	1	1	3	7	7	1	1	8	9	9	11
+
+tanungin	ninyo	ang	dalawa	naming	kasama	.
+INOF	PRPL	CD	CDB	PRPL	CP	PMP
+0	1	6	6	6	1	6
+
+nagtatakang	tiningnan	ng	alperes	ang	sarhento	.
+RD	RD	CCB	CP	CD	CP	PMP
+2	0	4	2	6	2	6
+
+nanunuyang	ngumiti	ang	bilanggo	.
+RD	RD	CD	CP	PMP
+2	0	4	2	4
+
+sandaling	nakipag-usap	ang	alperes	sa	kura	,	pumihit	at	inutusan	ang	mga	sundalo	.
+RW	PFAF	CD	CP	CCT	CP	PMC	INAF	CCA	PFOF	CD	CDPL	CP	PMP
+2	0	4	2	2	5	8	2	8	9	13	13	10	13
+
+ipakita	sa	kanya	ang	mga	bankay	!
+INOF	CCT	POSG	CD	CDPL	CP	PME
+0	1	2	6	6	1	6
+
+palakad-lakad	ang	isang	sundalo	.
+JCJD	CD	PRI	CP	PMP
+0	3	4	1	4
+
+tila	nanlumo	si	tarsilo	at	nagbuntung-hininga	.
+RM	PFAF	PDSG	NNP	CCA	PFAF	PMP
+2	0	4	2	6	2	6
+
+nanatiling	alang	kibo	si	tarsilo	.
+INOF	RF	JCJD	PDSG	NNP	PMP
+3	1	0	5	3	5
+
+humaging	ang	latigo	at	lumagapak	sa	kanyang	balikat	.
+INAF	CD	CP	CCA	INAF	CCT	POSG	CP	PMP
+0	3	1	1	4	5	8	6	8
+
+ilang	ulit	pang	lumatay	ang	pamalo	sa	likod	ni	tarsilo	,	ngunit	nananatili	siyang	walang	kibo	.
+QISG	CP	RI	INAF	CD	CP	CCT	CP	PDSG	NNP	PMC	CCT	INAF	PRSG	RF	JCJD	PMP
+4	1	4	0	6	4	4	7	8	9	12	4	12	13	16	13	16
+
+hagupitin	siya	hanggang	sa	magsalita	o	mamatay	!
+INOF	PRSG	RW	CCT	INAF	CCT	INOF	PME
+0	1	1	3	4	5	6	7
+
+ibinalik	si	tarsilo	sa	bulwagan	ng	munisipyo	.
+PFOF	PDSG	NNP	RL	RL	CCB	CP	PMP
+0	3	1	1	4	5	6	7
+
+naroroon	pa	ang	bilanggong	nananawagan	sa	lahat	ng	santo	.
+RL	RI	CD	CP	IMAF	CCT	PRI	CCB	CP	PMP
+0	1	4	1	4	5	6	7	8	9
+
+nagtatagis	ang	mga	ngipin	niyon	at	naginginig	ang	mga	tuho	.
+IMAF	CD	CDPL	CP	DM	CCA	PFAF	CD	CDPL	CP	PMP
+0	4	4	1	4	1	6	10	10	7	10
+
+sinuntok	muna	ng	alperes	si	tarsilo	bago	sinipa	.
+PFOF	RI	CCB	CP	PDSG	NNP	RW	PFOF	PMP
+0	1	4	1	6	1	1	7	8
+
+iginapos	si	tarsilo	sa	bangko	na	natalian	pa	nang	may	bahid-dugo	.
+PFOF	PDSG	NNP	CCT	CP	CCP	PFOF	RI	CCB	VH	JCJD	PMP
+0	3	1	1	4	5	6	7	7	9	10	11
+
+nagpalinga-linga	ang	kaawa-awa	na	parang	may	hinahanap	,	at	namataan	niya	si	donya	consolacion	.
+PFAF	CD	JCJD	CCP	CCT	VH	IMOF	PMC	CCA	PFAF	PRSG	PDSG	NNP	NNP	PMP
+0	3	1	3	4	7	5	9	1	9	10	14	14	10	14
+
+ikinagulat	ng	lahat	ang	kanyang	pagtatawa	.
+PFBF	CCB	PRI	CD	POSG	CP	PMP
+0	3	1	6	6	1	6
+
+nang	sundan	nila	ang	kanyang	tinitingnan	ay	nakita	nila	ang	nakapangagat-labing	babae	.
+RW	INOF	PRPL	CD	POSG	IMOF	LM	PFAF	PRPL	CD	JCJD	CP	PMP
+7	1	2	6	6	2	0	7	8	12	12	8	12
+
+nanaisin	ko	pang	mahiga	sa	ganitong	bangko	kaysa	sa	tabi	niya	,	di	tulad	ng	alperes	.
+IMOF	PRSG	RI	INOF	CCT	CM	CP	JCCC	RL	RL	PRSG	PMC	RF	JCCC	JCCC	CP	PMP
+0	1	1	1	4	7	5	4	8	9	10	13	1	13	16	14	16
+
+namutla	si	donya	consolacion	.
+PFAF	PDSG	NNP	NNP	PMP
+0	4	4	1	4
+
+"	ngunit	sadyang	nais	ni	tarsilong	mabusalan	siya	,	kaya't	nangislap	ang	kanyang	mga	mata	sa	kasiyahan	.
+PMS	CCT	RT	AS	PDSG	NNP	INOF	PRSG	PMC	CCR	PFAF	CD	POSG	CDPL	CP	CCT	CP	PMP
+3	3	3	0	5	3	3	6	9	3	9	14	14	14	10	10	15	16
+
+sa	hudyat	ng	alperes	ay	sinimulan	ng	sundalong	nasasandatahan	ng	latigo	ang	nakasusulasok	niyang	gawain	.
+CCT	CP	CCB	CP	LM	PFOF	CCB	CP	IMOF	CCB	CP	CD	JCJD	PRSG	CP	PMP
+5	1	2	3	0	5	8	6	8	9	10	13	5	13	14	15
+
+nayanig	ang	buong	katawan	ni	tarsilo	.
+PFAF	CD	JCJD	CP	PDSG	NNP	PMP
+0	4	4	1	6	1	6
+
+isang	impit	na	sigaw	ang	kumawala	sa	binusalang	bibig	.
+PRI	CP	CCP	CP	CD	INAF	CCT	JCJD	CP	PMP
+4	4	2	6	6	0	6	9	7	9
+
+itinungo	niya	ang	ulo	at	kumalat	ang	matsa	ng	dugo	sa	kanyang	damit	.
+PFOF	PRSG	CD	CP	CCA	INAF	CD	CP	CCB	CP	CCT	POSG	CP	PMP
+0	1	4	1	1	5	8	6	8	9	6	13	11	13
+
+nahihirapang	tumayo	si	padre	salvi	.
+RD	RD	PDSG	NNP	NNP	PMP
+2	0	5	5	2	5
+
+namumutla	siya	at	naglilimayon	ang	kanyang	mga	paningin	.
+JCJD	PRSG	CCA	IMAF	CD	POSG	CDPL	CP	PMP
+0	1	1	1	8	8	8	4	8
+
+nagtaas	ng	kamay	at	pasuray-suray	na	lumabas	sa	bulwagan	.
+PFAF	CCB	CP	CCA	RD	RD	RD	CCT	CP	PMP
+0	3	1	1	4	5	5	7	8	9
+
+sa	lansangan	ay	nakita	niya	ang	isang	dalagang	nakasandal	sa	pader	.
+CCT	CP	LM	PFAF	PRSG	CD	PRI	CP	JCJD	CCT	CP	PMP
+2	3	0	3	4	8	8	4	8	9	10	11
+
+nanunuot	sa	kanya	ang	init	ng	araw	habang	halos	hindi	humihinga	sa	pagbilang	ng	malalakas	na	lagapak	ng	pamalo	.
+IMAF	CCT	POSG	CD	CP	CCB	CP	RW	RD	RF	RD	CCT	CP	CCB	JCJD	CCP	CP	CCB	CP	PMP
+0	3	1	5	1	5	6	1	8	11	9	11	12	17	17	17	13	17	18	19
+
+nakababagbag	ng	damdamin	ang	kanyang	panangis	.
+JCJD	CCB	CP	CD	POSG	CP	PMP
+0	3	1	6	6	1	6
+
+siya	ang	kapatid	na	dalaga	ni	tarsilo	.
+PRSG	CD	CP	CCP	CP	PDSG	NNP	PMP
+3	3	0	5	3	3	6	7
+
+hindi	na	siya	makadaing	at	tila	hinihintay	na	lamang	niyang	mapagod	ang	mga	nagpaparusa	sa	kanya	.
+RF	RI	PRSG	INAF	CCA	RM	IMOF	CCP	RI	PRSG	JCJD	CD	CDPL	PFAF	CCT	POSG	PMP
+4	1	4	0	4	7	5	7	8	7	7	14	14	11	14	15	16
+
+sa	wakas	ay	huminto	sa	pagpalo	ang	humihingal	na	sundalo	.
+CCT	CP	LM	INAF	CCT	CP	CD	IMAF	CCP	CP	PMP
+2	3	0	3	4	5	10	10	8	4	10
+
+ang	alperes	na	namumutla	sa	poot	at	pagtataka	,	ay	humudyat	na	kalagan	ng	gapos	si	tarsilo	.
+CD	CP	CCP	IMAF	CCT	CP	CCA	CP	PMC	LM	INAF	CCP	INOF	CCB	CP	PDSG	NNP	PMP
+2	10	4	2	4	5	6	7	10	0	10	11	11	15	13	17	13	17
+
+noon	din	ay	tumayo	si	donya	consolacion	at	binulungan	ang	asawa	.
+RW	RI	LM	INAF	PDSG	NNP	NNP	CCA	PFOF	CD	CP	PMP
+3	1	0	3	7	7	4	4	8	11	9	11
+
+hindi	kilala	ang	imbentor	ng	gayong	pagpapahirap	,	pero	maaaring	napakatanda	na	nitong	pamamaraan	.
+RF	JCJD	CD	CP	CCB	CM	CP	PMC	CCT	RT	JCCS	CCP	DM	CP	PMP
+2	0	4	2	7	7	2	9	2	9	10	11	11	11	14
+
+marahil	,	isang	kabalintunaan	ang	kasabihang	sa	balon	nagmumula	ang	katotohanan	.
+RM	PMC	PRI	CP	CD	CP	CCT	CP	PFAF	CD	CP	PMP
+6	3	6	6	6	0	6	7	6	11	9	11
+
+ang	balong	yari	sa	mga	batong-buhay	ay	maringaal	na	nakatayo	sa	gitna	ng	patio	ng	munisipyo	.
+CD	CP	INAF	CCT	CDPL	CP	LM	RD	RD	RD	RL	RL	CCB	CP	CCB	CP	PMP
+2	7	2	3	6	4	0	10	8	7	10	11	12	13	14	15	16
+
+ang	ano	mang	itinatapon	at	winawalang-halaga	ng	lipunan	ay	dito	humahantong	.
+CD	QISG	RI	IMOF	CCA	IMOF	CCB	CP	LM	LO	IMAF	PMP
+2	9	2	2	4	5	6	7	0	11	9	11
+
