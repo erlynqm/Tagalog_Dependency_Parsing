@@ -11,3 +11,8 @@
     Columns 6-9: prefix|infix|suffix|reduplication (if any. If none, use  underscore  '_'
     Column 10: head's index (based on Col 1. If token is head of sentence, Column 10 == 0)
     Column 11: dep relations (in this case, we did not label so we marked it with underscore '_'
+    
+#### format reference: 
+      https://ilk.uvt.nl/~emarsi/download/pubs/14964.pdf
+      
+      
