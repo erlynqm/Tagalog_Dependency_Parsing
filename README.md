@@ -29,6 +29,7 @@ Example:
     Line 2 : POS Tag
     Line 3 : index of the head. In case token is the head of the sentence, 0
 
+![Alt text](https://github.com/erlynqm/Tagalog_Dependency_Parsing/blob/master/Sample%20dependency%20Tree.png "Title")
 
       
      
